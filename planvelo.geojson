@@ -2714,6 +2714,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Arc de Triomphe"
       },
       "geometry": {
@@ -2901,6 +2904,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Bastille - Vincennes"
       },
       "geometry": {
@@ -3212,6 +3218,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Bourdon -  Porte de Bercy",
         "description": "pas sûr du lieu de pasage sur les Quais de la Râpée - de Bercy"
       },
@@ -3432,6 +3441,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Châtelet - Aubervilliers"
       },
       "geometry": {
@@ -3551,10 +3563,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Châtelet - Porte d'Orléans",
-        "_storage_options": {
-          "opacity": "1"
-        }
+        "_storage_options": "{\"opacity\":\"1\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -3741,6 +3754,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Concorde - Arc de Triomphe"
       },
       "geometry": {
@@ -3864,6 +3880,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Concorde-Bastille"
       },
       "geometry": {
@@ -3963,6 +3982,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Concorde-Bourdon"
       },
       "geometry": {
@@ -4134,6 +4156,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Saint-Cloud - Concorde"
       },
       "geometry": {
@@ -4221,6 +4246,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Saint-Michel - Issy"
       },
       "geometry": {
@@ -4372,6 +4400,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 7,
+        "stroke-opacity": 1,
         "name": "Saint-Michel - Ivry"
       },
       "geometry": {
