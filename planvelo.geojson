@@ -2559,6 +2559,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "av de la porte d'Ivry",
         "description": "aménagement pas satisfaisant, piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux"
       },
@@ -2579,6 +2582,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Magenta",
         "description": "piste retravaillé, mais toujours insatisfaisante"
       },
