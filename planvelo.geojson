@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Bourdon",
         "description": "nouvelle piste réalisée, projet non inscrit au plan vélo"
       },
@@ -2599,7 +2602,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2621,6 +2628,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Picpus - Reuilly"
       },
       "geometry": {
@@ -2652,6 +2662,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "place d'Italie",
         "description": "piste existante améliorée (devant Italie 2)"
       },
@@ -2672,6 +2685,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Tour Maubourg",
         "description": "sens nord-sud: couloir de bus élargi et ouvert aux vélos"
       },
@@ -4590,7 +4606,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
