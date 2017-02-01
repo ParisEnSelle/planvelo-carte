@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Bourdon",
+        "description": "piste bidirectionnelle large de 2m par sens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3657512664794926,
+            48.84780129858839
+          ],
+          [
+            2.368369102478028,
+            48.853082075093546
+          ]
+        ]
+      }
+    }
+  ]
+}
