@@ -4,7 +4,7 @@
 
 2. Demander un accès en écriture sur ce projet.
 
-3. Se rendre sur l'éditeur de carte: http://editor.planvelo.paris
+3. Se rendre sur l'[éditeur de carte](http://editor.planvelo.paris)
 
 4. Se connecter avec le lien "login" en haut à droite. ![Se connecter](assets/contribuer_0.png)
 
@@ -16,4 +16,4 @@
 
 8. Taper un message décrivant la modification réalisée et valider. ![Message de commit](assets/contribuer_3.png)
 
-9. Vous pouvez enfin vérifier que votre travail a été enregistré en allant ici: https://github.com/ParisEnSelle/planvelo-carte/commits/master ![Commits](assets/contribuer_4.png)
+9. Vous pouvez enfin vérifier que votre travail a été enregistré [en affichant la liste des commits](https://github.com/ParisEnSelle/planvelo-carte/commits/master). ![Commits](assets/contribuer_4.png)
