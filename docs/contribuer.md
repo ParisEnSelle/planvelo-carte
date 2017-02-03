@@ -4,11 +4,11 @@
 
 2. Demander un accès en écriture sur ce projet.
 
-3. Se rendre sur l'[éditeur de carte](http://editor.planvelo.paris)
+3. Se rendre sur l'éditeur de carte [geojson.io](http://geojson.io).
 
 4. Se connecter avec le lien "login" en haut à droite. ![Se connecter](assets/contribuer_0.png)
 
-5. Pour la première connexion, vous devrez autoriser notre éditeur à accèder à vos données github. Cliquer sur "Authorize application". ![Autoriser](assets/contribuer_1.png)
+5. Pour la première connexion, vous devrez autoriser l'éditeur à accèder à vos données Github. Cliquer sur "Authorize application". ![Autoriser](assets/contribuer_1.png)
 
 6. Ouvrir la carte. Menu "Open > Github". Dans l'arborescence, cliquer sur `la-carte-à-éditer.geojson` ![Ouvrir](assets/contribuer_2.png)
 
