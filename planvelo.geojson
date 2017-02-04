@@ -2537,7 +2537,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffa500",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "av de la porte d'Ivry",
         "description": "aménagement pas satisfaisant, piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux"
@@ -2560,7 +2560,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffa500",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Magenta",
         "description": "piste retravaillé, mais toujours insatisfaisante"
@@ -2587,7 +2587,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -2612,7 +2612,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Picpus - Reuilly"
       },
@@ -2646,7 +2646,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "place d'Italie",
         "description": "piste existante améliorée (devant Italie 2)"
@@ -2669,7 +2669,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Tour Maubourg",
         "description": "sens nord-sud: couloir de bus élargi et ouvert aux vélos"
@@ -4508,7 +4508,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1
       },
       "geometry": {
