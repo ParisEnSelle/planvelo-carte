@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 4,
+        "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Bourdon",
         "description": "piste bidirectionnelle large de 2m par sens"
@@ -64,7 +64,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Quai de Valmy",
+        "description": "Piste unidirectionnelle"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
