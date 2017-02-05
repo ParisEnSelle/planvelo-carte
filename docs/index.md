@@ -2,7 +2,7 @@
 
 ## Projets du plan vélo
 
-`planvelo.geojson`: projets [définis](assets/planvelo.jpeg) dans le plan vélo
+Projets [définis](assets/planvelo.jpeg) dans le plan vélo
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo.geojson"></script>
 
@@ -10,8 +10,16 @@
 
 ## Projets hors plan vélo
 
-`hors-planvelo.geojson`: projets non prévus dans le plan vélo
+Projets non prévus dans le plan vélo
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/hors-planvelo.geojson"></script>
 
 [Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/hors-planvelo.geojson)
+
+## Réseau structurant
+
+Infrastructures cyclables faisant partie du "réseau structurant"
+
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/reseau-structurant.geojson"></script>
+
+[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/reseau-structurant.geojson)
