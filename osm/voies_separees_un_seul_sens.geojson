@@ -1,0 +1,5164 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3567921, 
+                        48.8494016
+                    ], 
+                    [
+                        2.3569768, 
+                        48.8494687
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 286554, 
+            "properties": {
+                "alt_name": "Pont Sully", 
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Pont de Sully", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3589274, 
+                        48.850065
+                    ], 
+                    [
+                        2.3590046, 
+                        48.8500876
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 286555, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3623471, 
+                        48.8679555
+                    ], 
+                    [
+                        2.3625103, 
+                        48.8680734
+                    ], 
+                    [
+                        2.3627652, 
+                        48.8682888
+                    ], 
+                    [
+                        2.3628405, 
+                        48.8683526
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 3127158, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "lanes": "4", 
+                "maxspeed": "50", 
+                "name": "Place de la République", 
+                "name:de": "Platz der Republik", 
+                "name:fr": "Place de la République"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3698269, 
+                        48.8827256
+                    ], 
+                    [
+                        2.369743, 
+                        48.8826582
+                    ], 
+                    [
+                        2.36969, 
+                        48.882609
+                    ], 
+                    [
+                        2.3692638, 
+                        48.8825077
+                    ], 
+                    [
+                        2.3691744, 
+                        48.882443
+                    ], 
+                    [
+                        2.3691046, 
+                        48.8823724
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 3869982, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3662114, 
+                        48.8431113
+                    ], 
+                    [
+                        2.3662799, 
+                        48.8430701
+                    ], 
+                    [
+                        2.3663366, 
+                        48.8430356
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039319, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Quai d'Austerlitz"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.350692, 
+                        48.8560629
+                    ], 
+                    [
+                        2.3509387, 
+                        48.8559696
+                    ], 
+                    [
+                        2.3509866, 
+                        48.8559521
+                    ], 
+                    [
+                        2.3511151, 
+                        48.855905
+                    ], 
+                    [
+                        2.3515592, 
+                        48.8557419
+                    ], 
+                    [
+                        2.3516704, 
+                        48.855701
+                    ], 
+                    [
+                        2.3521959, 
+                        48.855508
+                    ], 
+                    [
+                        2.3524405, 
+                        48.8554281
+                    ], 
+                    [
+                        2.3525891, 
+                        48.8553825
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039350, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lanes:backward": "2", 
+                "lanes:forward": "2", 
+                "lit": "yes", 
+                "name": "Quai de l'Hôtel de Ville", 
+                "source": "Bing", 
+                "wikidata": "Q3412693"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3875296, 
+                        48.8629244
+                    ], 
+                    [
+                        2.3877109, 
+                        48.8629664
+                    ], 
+                    [
+                        2.3879039, 
+                        48.8630133
+                    ], 
+                    [
+                        2.3885679, 
+                        48.8631596
+                    ], 
+                    [
+                        2.389621, 
+                        48.8634286
+                    ], 
+                    [
+                        2.3911543, 
+                        48.8638183
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039379, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Avenue Gambetta", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3478915, 
+                        48.8706755
+                    ], 
+                    [
+                        2.3476772, 
+                        48.8707135
+                    ], 
+                    [
+                        2.3468178, 
+                        48.8708663
+                    ], 
+                    [
+                        2.3467356, 
+                        48.8708809
+                    ], 
+                    [
+                        2.3460955, 
+                        48.8709817
+                    ], 
+                    [
+                        2.34598, 
+                        48.8709998
+                    ], 
+                    [
+                        2.3457166, 
+                        48.8710443
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039403, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Poissonnière", 
+                "oneway": "no", 
+                "wikipedia": "fr:Boulevard Poissonnière"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3557578, 
+                        48.8689861
+                    ], 
+                    [
+                        2.3556012, 
+                        48.8690222
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039469, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Saint-Denis"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3489342, 
+                        48.8567219
+                    ], 
+                    [
+                        2.3488843, 
+                        48.8566299
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039655, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lit": "yes", 
+                "name": "Pont Notre-Dame", 
+                "oneway": "yes", 
+                "sidewalk": "both", 
+                "source": "Bing", 
+                "wikipedia": "fr:Pont Notre-Dame"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3216656, 
+                        48.8400591
+                    ], 
+                    [
+                        2.3216273, 
+                        48.8400264
+                    ], 
+                    [
+                        2.3215756, 
+                        48.8399822
+                    ], 
+                    [
+                        2.3215325, 
+                        48.8399455
+                    ], 
+                    [
+                        2.3214623, 
+                        48.8398855
+                    ], 
+                    [
+                        2.3214546, 
+                        48.8398781
+                    ], 
+                    [
+                        2.3212532, 
+                        48.8397069
+                    ], 
+                    [
+                        2.3212099, 
+                        48.8396699
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039658, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "tertiary", 
+                "name": "Rue du Commandant René Mouchotte", 
+                "ref:FR:FANTOIR": "751142236H"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3328988, 
+                        48.8512714
+                    ], 
+                    [
+                        2.3329067, 
+                        48.8511719
+                    ], 
+                    [
+                        2.3327622, 
+                        48.8505001
+                    ], 
+                    [
+                        2.3327223, 
+                        48.8503541
+                    ], 
+                    [
+                        2.3326961, 
+                        48.8502584
+                    ], 
+                    [
+                        2.332719, 
+                        48.8494949
+                    ], 
+                    [
+                        2.3327573, 
+                        48.8487853
+                    ], 
+                    [
+                        2.3327614, 
+                        48.8487084
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039784, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue Bonaparte", 
+                "note": "[lapinos03] Piste cyclable d'après plan officiel 2008/02 - vérifié sur place"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.365408, 
+                        48.8777063
+                    ], 
+                    [
+                        2.3655129, 
+                        48.8775874
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039805, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway": "opposite_lane", 
+                "cycleway:left": "opposite_track", 
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Pont Eugène Varlin", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3663366, 
+                        48.8430356
+                    ], 
+                    [
+                        2.366425, 
+                        48.8429733
+                    ], 
+                    [
+                        2.3664845, 
+                        48.8429333
+                    ], 
+                    [
+                        2.3666896, 
+                        48.8427837
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039817, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Quai d'Austerlitz"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.350421, 
+                        48.8514343
+                    ], 
+                    [
+                        2.3503575, 
+                        48.8514605
+                    ], 
+                    [
+                        2.349649, 
+                        48.8517467
+                    ], 
+                    [
+                        2.3495535, 
+                        48.8517867
+                    ], 
+                    [
+                        2.3492693, 
+                        48.8519061
+                    ], 
+                    [
+                        2.3491991, 
+                        48.8519364
+                    ], 
+                    [
+                        2.3484169, 
+                        48.852289
+                    ], 
+                    [
+                        2.3483787, 
+                        48.8523044
+                    ], 
+                    [
+                        2.3482255, 
+                        48.8523624
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039875, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai de Montebello", 
+                "name:ru": "набережная Монтбело", 
+                "oneway": "yes", 
+                "sidewalk": "both"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.363647, 
+                        48.8333199
+                    ], 
+                    [
+                        2.3638025, 
+                        48.8331882
+                    ], 
+                    [
+                        2.3643213, 
+                        48.8327968
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4039920, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "lit": "yes", 
+                "name": "Rue Jeanne d'Arc", 
+                "source": "survey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3139457, 
+                        48.8671384
+                    ], 
+                    [
+                        2.3138977, 
+                        48.8667143
+                    ], 
+                    [
+                        2.3138838, 
+                        48.8666004
+                    ], 
+                    [
+                        2.3138518, 
+                        48.8663393
+                    ], 
+                    [
+                        2.3137948, 
+                        48.8658218
+                    ], 
+                    [
+                        2.3137567, 
+                        48.8654652
+                    ], 
+                    [
+                        2.3137193, 
+                        48.8651143
+                    ], 
+                    [
+                        2.3137163, 
+                        48.8650833
+                    ], 
+                    [
+                        2.3137066, 
+                        48.8649955
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4294026, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Avenue Winston Churchill", 
+                "old_name": "Avenue Nicolas II", 
+                "surface": "paving_stones", 
+                "wikidata": "Q2873884"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.368597, 
+                        48.8532403
+                    ], 
+                    [
+                        2.3681876, 
+                        48.8532948
+                    ], 
+                    [
+                        2.3679689, 
+                        48.8533234
+                    ], 
+                    [
+                        2.3676277, 
+                        48.853368
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 4517280, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Rue Saint-Antoine", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:bus": "no", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3292903, 
+                        48.8189642
+                    ], 
+                    [
+                        2.3291032, 
+                        48.8183107
+                    ], 
+                    [
+                        2.3290391, 
+                        48.8180602
+                    ], 
+                    [
+                        2.3290288, 
+                        48.8180148
+                    ], 
+                    [
+                        2.3290235, 
+                        48.8179894
+                    ], 
+                    [
+                        2.3289702, 
+                        48.8177806
+                    ], 
+                    [
+                        2.3289535, 
+                        48.8177202
+                    ], 
+                    [
+                        2.3289166, 
+                        48.817587
+                    ], 
+                    [
+                        2.3288542, 
+                        48.8173681
+                    ], 
+                    [
+                        2.3288293, 
+                        48.8172801
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 11288666, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "unclassified", 
+                "name": "Rue François Ory"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3526118, 
+                        48.8696937
+                    ], 
+                    [
+                        2.3525558, 
+                        48.8697064
+                    ], 
+                    [
+                        2.3523661, 
+                        48.8697495
+                    ], 
+                    [
+                        2.3523035, 
+                        48.8697637
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 13466910, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "name": "Boulevard de Bonne Nouvelle", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2651008, 
+                        48.8343323
+                    ], 
+                    [
+                        2.2651933, 
+                        48.8343772
+                    ], 
+                    [
+                        2.2652058, 
+                        48.8343817
+                    ], 
+                    [
+                        2.2656126, 
+                        48.8345783
+                    ], 
+                    [
+                        2.2656866, 
+                        48.8346329
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 17415436, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "foot": "no", 
+                "highway": "primary", 
+                "name": "Quai d'Issy-les-Moulineaux", 
+                "oneway": "yes", 
+                "ref": "D 7"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.26695, 
+                        48.83457
+                    ], 
+                    [
+                        2.2669463, 
+                        48.8346195
+                    ], 
+                    [
+                        2.2668972, 
+                        48.8350232
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 17419216, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "maxspeed": "50", 
+                "name": "Rue Pégoud", 
+                "oneway": "yes", 
+                "sidewalk": "right"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3430679, 
+                        48.871489
+                    ], 
+                    [
+                        2.3429143, 
+                        48.871514
+                    ], 
+                    [
+                        2.3418652, 
+                        48.8716848
+                    ], 
+                    [
+                        2.3416094, 
+                        48.871724
+                    ], 
+                    [
+                        2.3402077, 
+                        48.8719543
+                    ], 
+                    [
+                        2.340045, 
+                        48.871981
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 18229612, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Montmartre", 
+                "oneway": "no", 
+                "wikipedia": "fr:Boulevard Montmartre"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3104328, 
+                        48.8625878
+                    ], 
+                    [
+                        2.3102266, 
+                        48.8625756
+                    ], 
+                    [
+                        2.3101699, 
+                        48.8625722
+                    ], 
+                    [
+                        2.3099211, 
+                        48.8625675
+                    ], 
+                    [
+                        2.3091318, 
+                        48.8625502
+                    ], 
+                    [
+                        2.3054264, 
+                        48.8624574
+                    ], 
+                    [
+                        2.3031959, 
+                        48.8624216
+                    ], 
+                    [
+                        2.3031345, 
+                        48.8624215
+                    ], 
+                    [
+                        2.302795, 
+                        48.8624209
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 19729421, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai d'Orsay"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3600915, 
+                        48.850406
+                    ], 
+                    [
+                        2.3602172, 
+                        48.8504507
+                    ], 
+                    [
+                        2.3612632, 
+                        48.8507721
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 20445190, 
+            "properties": {
+                "alt_name": "Pont Sully", 
+                "bridge": "yes", 
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "layer": "1", 
+                "name": "Pont de Sully", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no", 
+                "wikipedia": "fr:Pont de Sully"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3124312, 
+                        48.8584428
+                    ], 
+                    [
+                        2.312154, 
+                        48.8584508
+                    ], 
+                    [
+                        2.3111977, 
+                        48.8584067
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 21121233, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lit": "yes", 
+                "name": "Rue de Grenelle", 
+                "sidewalk": "both"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3151849, 
+                        48.8579622
+                    ], 
+                    [
+                        2.3150546, 
+                        48.8579631
+                    ], 
+                    [
+                        2.3146995, 
+                        48.8580416
+                    ], 
+                    [
+                        2.3145636, 
+                        48.858122
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 21121244, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue de Grenelle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2801204, 
+                        48.8523168
+                    ], 
+                    [
+                        2.279971, 
+                        48.8522231
+                    ], 
+                    [
+                        2.2798777, 
+                        48.8521646
+                    ], 
+                    [
+                        2.2790516, 
+                        48.8516765
+                    ], 
+                    [
+                        2.2788595, 
+                        48.8515631
+                    ], 
+                    [
+                        2.2786706, 
+                        48.8514515
+                    ], 
+                    [
+                        2.2786293, 
+                        48.8514271
+                    ], 
+                    [
+                        2.2784653, 
+                        48.8513246
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22498767, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "lanes:backward": "2", 
+                "lanes:forward": "2", 
+                "name": "Avenue du Président Kennedy", 
+                "source": "Bing"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3542147, 
+                        48.8693408
+                    ], 
+                    [
+                        2.3540031, 
+                        48.869388
+                    ], 
+                    [
+                        2.3535477, 
+                        48.8694895
+                    ], 
+                    [
+                        2.3530845, 
+                        48.8695927
+                    ], 
+                    [
+                        2.3529726, 
+                        48.8696176
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22733228, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Saint-Denis", 
+                "oneway": "no", 
+                "wikidata": "Q2404571"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3144942, 
+                        48.851471
+                    ], 
+                    [
+                        2.3142633, 
+                        48.8513185
+                    ], 
+                    [
+                        2.3141439, 
+                        48.8512432
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22925181, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard des Invalides", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3141439, 
+                        48.8512432
+                    ], 
+                    [
+                        2.3143858, 
+                        48.8508214
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22925221, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard des Invalides"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3569768, 
+                        48.8494687
+                    ], 
+                    [
+                        2.3588177, 
+                        48.8500381
+                    ], 
+                    [
+                        2.3589274, 
+                        48.850065
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22964641, 
+            "properties": {
+                "alt_name": "Pont Sully", 
+                "bridge": "yes", 
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "layer": "1", 
+                "name": "Pont de Sully", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no", 
+                "wikipedia": "fr:Pont de Sully"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3532477, 
+                        48.8560378
+                    ], 
+                    [
+                        2.3531722, 
+                        48.8558876
+                    ], 
+                    [
+                        2.3531447, 
+                        48.8558477
+                    ], 
+                    [
+                        2.3530901, 
+                        48.8557161
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 22973383, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue de Lobau", 
+                "wikidata": "Q3450821"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3661837, 
+                        48.8697616
+                    ], 
+                    [
+                        2.3662248, 
+                        48.8697093
+                    ], 
+                    [
+                        2.3669357, 
+                        48.8687973
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 23235941, 
+            "properties": {
+                "bicycle": "yes", 
+                "busway:left": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3655156, 
+                        48.8285922
+                    ], 
+                    [
+                        2.3653401, 
+                        48.8288595
+                    ], 
+                    [
+                        2.3653115, 
+                        48.8289049
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 23416460, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "name": "Rue Nationale"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3231956, 
+                        48.8700963
+                    ], 
+                    [
+                        2.3233599, 
+                        48.8698591
+                    ], 
+                    [
+                        2.323447, 
+                        48.869734
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 24016072, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard Malesherbes", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3141048, 
+                        48.8873501
+                    ], 
+                    [
+                        2.3142633, 
+                        48.8873018
+                    ], 
+                    [
+                        2.3148688, 
+                        48.8870251
+                    ], 
+                    [
+                        2.3151736, 
+                        48.8868765
+                    ], 
+                    [
+                        2.3154729, 
+                        48.8867199
+                    ], 
+                    [
+                        2.3158082, 
+                        48.8865209
+                    ], 
+                    [
+                        2.3161034, 
+                        48.8863033
+                    ], 
+                    [
+                        2.316447, 
+                        48.886011
+                    ], 
+                    [
+                        2.3167699, 
+                        48.8857077
+                    ], 
+                    [
+                        2.3168158, 
+                        48.8856643
+                    ], 
+                    [
+                        2.3168693, 
+                        48.8856101
+                    ], 
+                    [
+                        2.3178587, 
+                        48.8846512
+                    ], 
+                    [
+                        2.3184533, 
+                        48.8840694
+                    ], 
+                    [
+                        2.3185056, 
+                        48.8840198
+                    ], 
+                    [
+                        2.3192553, 
+                        48.883284
+                    ], 
+                    [
+                        2.320177, 
+                        48.8823631
+                    ], 
+                    [
+                        2.3203489, 
+                        48.8822056
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 24027082, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue de Rome", 
+                "ref": "53"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3649225, 
+                        48.8781006
+                    ], 
+                    [
+                        2.3653249, 
+                        48.8777738
+                    ], 
+                    [
+                        2.365408, 
+                        48.8777063
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 25469387, 
+            "properties": {
+                "cycleway:left": "opposite_lane", 
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Rue Eugène Varlin", 
+                "oneway": "yes", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154", 
+                "wikidata": "Q3447852", 
+                "zone:maxspeed": "FR:30"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3592985, 
+                        48.8365894
+                    ], 
+                    [
+                        2.3594219, 
+                        48.8367585
+                    ], 
+                    [
+                        2.3599953, 
+                        48.8375438
+                    ], 
+                    [
+                        2.3607276, 
+                        48.838555
+                    ], 
+                    [
+                        2.3608401, 
+                        48.8387103
+                    ], 
+                    [
+                        2.3609557, 
+                        48.8388699
+                    ], 
+                    [
+                        2.3615726, 
+                        48.8396471
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 25485120, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "name": "Boulevard de l'Hôpital"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2828671, 
+                        48.8485289
+                    ], 
+                    [
+                        2.2829772, 
+                        48.848459
+                    ], 
+                    [
+                        2.284014, 
+                        48.8477822
+                    ], 
+                    [
+                        2.2841535, 
+                        48.8476911
+                    ], 
+                    [
+                        2.2842684, 
+                        48.8476162
+                    ], 
+                    [
+                        2.285083, 
+                        48.8470844
+                    ], 
+                    [
+                        2.2854723, 
+                        48.8468302
+                    ], 
+                    [
+                        2.2855376, 
+                        48.8467876
+                    ], 
+                    [
+                        2.2856158, 
+                        48.8467365
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 27701599, 
+            "properties": {
+                "cycleway": "lane", 
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue Linois", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3855194, 
+                        48.9016775
+                    ], 
+                    [
+                        2.3856028, 
+                        48.9018486
+                    ], 
+                    [
+                        2.3859376, 
+                        48.9027233
+                    ], 
+                    [
+                        2.3861951, 
+                        48.9031182
+                    ], 
+                    [
+                        2.3865007, 
+                        48.9035156
+                    ], 
+                    [
+                        2.3866273, 
+                        48.9036704
+                    ], 
+                    [
+                        2.3867991, 
+                        48.9040244
+                    ], 
+                    [
+                        2.3871739, 
+                        48.9053706
+                    ], 
+                    [
+                        2.3876446, 
+                        48.9067669
+                    ], 
+                    [
+                        2.3878847, 
+                        48.9076097
+                    ], 
+                    [
+                        2.3879506, 
+                        48.9076761
+                    ], 
+                    [
+                        2.3880359, 
+                        48.9077387
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 29110225, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue des Cités", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3612632, 
+                        48.8507721
+                    ], 
+                    [
+                        2.3613291, 
+                        48.8507962
+                    ], 
+                    [
+                        2.3614231, 
+                        48.8508197
+                    ], 
+                    [
+                        2.3620958, 
+                        48.8510138
+                    ], 
+                    [
+                        2.3622571, 
+                        48.851052
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 30172924, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.4646225, 
+                        48.8288088
+                    ], 
+                    [
+                        2.4646063, 
+                        48.828463
+                    ], 
+                    [
+                        2.4646444, 
+                        48.8277824
+                    ], 
+                    [
+                        2.4646841, 
+                        48.8275826
+                    ], 
+                    [
+                        2.4647577, 
+                        48.8275086
+                    ], 
+                    [
+                        2.4648479, 
+                        48.8274489
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 30389928, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "unclassified", 
+                "maxspeed": "30", 
+                "name": "Avenue de la Belle Gabrielle", 
+                "zone:maxspeed": "FR:30"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3523035, 
+                        48.8697637
+                    ], 
+                    [
+                        2.3518327, 
+                        48.8698644
+                    ], 
+                    [
+                        2.3509561, 
+                        48.8700509
+                    ], 
+                    [
+                        2.3507125, 
+                        48.8701024
+                    ], 
+                    [
+                        2.3505604, 
+                        48.8701349
+                    ], 
+                    [
+                        2.3500585, 
+                        48.870242
+                    ], 
+                    [
+                        2.3497538, 
+                        48.8703074
+                    ], 
+                    [
+                        2.3495558, 
+                        48.8703496
+                    ], 
+                    [
+                        2.3490926, 
+                        48.8704483
+                    ], 
+                    [
+                        2.3488235, 
+                        48.8705056
+                    ], 
+                    [
+                        2.3487081, 
+                        48.8705302
+                    ], 
+                    [
+                        2.3482809, 
+                        48.8706166
+                    ], 
+                    [
+                        2.3480388, 
+                        48.8706492
+                    ], 
+                    [
+                        2.3478915, 
+                        48.8706755
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 31956307, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard de Bonne Nouvelle", 
+                "oneway": "no", 
+                "wikidata": "Q2921972", 
+                "wikipedia": "fr:Boulevard de Bonne-Nouvelle"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3529726, 
+                        48.8696176
+                    ], 
+                    [
+                        2.3528295, 
+                        48.8696478
+                    ], 
+                    [
+                        2.3526842, 
+                        48.8696784
+                    ], 
+                    [
+                        2.3526118, 
+                        48.8696937
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 31956438, 
+            "properties": {
+                "admin_level": "10", 
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Saint-Denis", 
+                "oneway": "no", 
+                "wikidata": "Q2404571"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3798078, 
+                        48.8846667
+                    ], 
+                    [
+                        2.3796331, 
+                        48.8848539
+                    ], 
+                    [
+                        2.3795898, 
+                        48.8849027
+                    ], 
+                    [
+                        2.379437, 
+                        48.885075
+                    ], 
+                    [
+                        2.3793702, 
+                        48.8851503
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 31979916, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Avenue de Laumière", 
+                "note": "[lapinos03] Piste cyclable seulement dans la descente (Sud->Nord)"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3559527, 
+                        48.8496518
+                    ], 
+                    [
+                        2.3548965, 
+                        48.8499888
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 32484551, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lanes": "2", 
+                "name": "Quai de la Tournelle", 
+                "name:ru": "набережная Турнель", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3139411, 
+                        48.867696
+                    ], 
+                    [
+                        2.3139892, 
+                        48.8675162
+                    ], 
+                    [
+                        2.3139457, 
+                        48.8671384
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 34382672, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Avenue Winston Churchill", 
+                "note": "FIXME [lapinos03] Piste cyclable d'après plan officiel 2008/02 - à vérifier sur place", 
+                "wikidata": "Q2873884"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3817164, 
+                        48.8467731
+                    ], 
+                    [
+                        2.381845, 
+                        48.8467876
+                    ], 
+                    [
+                        2.3821893, 
+                        48.8468263
+                    ], 
+                    [
+                        2.3830815, 
+                        48.8469265
+                    ], 
+                    [
+                        2.3835621, 
+                        48.8469805
+                    ], 
+                    [
+                        2.3837717, 
+                        48.847004
+                    ], 
+                    [
+                        2.3838996, 
+                        48.8470186
+                    ], 
+                    [
+                        2.3844097, 
+                        48.8470769
+                    ], 
+                    [
+                        2.384986, 
+                        48.8471423
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 34491632, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard Diderot"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2817936, 
+                        48.8385817
+                    ], 
+                    [
+                        2.2818773, 
+                        48.8385991
+                    ], 
+                    [
+                        2.2821055, 
+                        48.8387031
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 34824667, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Avenue Félix Faure", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3637458, 
+                        48.8729141
+                    ], 
+                    [
+                        2.3642775, 
+                        48.8722196
+                    ], 
+                    [
+                        2.3643956, 
+                        48.8720653
+                    ], 
+                    [
+                        2.3645335, 
+                        48.871892
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 35835711, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3634521, 
+                        48.8672768
+                    ], 
+                    [
+                        2.363701, 
+                        48.8671212
+                    ], 
+                    [
+                        2.3637317, 
+                        48.8671027
+                    ], 
+                    [
+                        2.3637893, 
+                        48.8670685
+                    ], 
+                    [
+                        2.3643264, 
+                        48.8667494
+                    ], 
+                    [
+                        2.3645579, 
+                        48.8666097
+                    ], 
+                    [
+                        2.364756, 
+                        48.8665326
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 35992596, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "foot": "yes", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Place de la République", 
+                "name:de": "Platz der Republik", 
+                "name:fr": "Place de la République", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3125429, 
+                        48.8808474
+                    ], 
+                    [
+                        2.3128432, 
+                        48.8808885
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 37073511, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "name": "Boulevard de Courcelles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3826299, 
+                        48.8824793
+                    ], 
+                    [
+                        2.3830587, 
+                        48.882603
+                    ], 
+                    [
+                        2.3836502, 
+                        48.8827543
+                    ], 
+                    [
+                        2.3845044, 
+                        48.8829008
+                    ], 
+                    [
+                        2.3852565, 
+                        48.8829797
+                    ], 
+                    [
+                        2.3853463, 
+                        48.8829891
+                    ], 
+                    [
+                        2.3855353, 
+                        48.8830072
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 37190923, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "name": "Rue Manin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3745164, 
+                        48.8828365
+                    ], 
+                    [
+                        2.3756097, 
+                        48.8827797
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 37214748, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue Armand Carrel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3756097, 
+                        48.8827797
+                    ], 
+                    [
+                        2.3803197, 
+                        48.8825751
+                    ], 
+                    [
+                        2.3814771, 
+                        48.8825381
+                    ], 
+                    [
+                        2.3817129, 
+                        48.8825305
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 37214749, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue Armand Carrel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3671587, 
+                        48.8534347
+                    ], 
+                    [
+                        2.3665216, 
+                        48.8535183
+                    ], 
+                    [
+                        2.3657086, 
+                        48.853705
+                    ], 
+                    [
+                        2.3656684, 
+                        48.8537142
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 41463245, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Rue Saint-Antoine"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3656684, 
+                        48.8537142
+                    ], 
+                    [
+                        2.3651697, 
+                        48.8538462
+                    ], 
+                    [
+                        2.364921, 
+                        48.8539121
+                    ], 
+                    [
+                        2.3648526, 
+                        48.8539302
+                    ], 
+                    [
+                        2.3647523, 
+                        48.8539585
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 41465215, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Rue Saint-Antoine"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3673358, 
+                        48.8525982
+                    ], 
+                    [
+                        2.3678062, 
+                        48.8527502
+                    ], 
+                    [
+                        2.3680395, 
+                        48.8528116
+                    ], 
+                    [
+                        2.3681168, 
+                        48.8528283
+                    ], 
+                    [
+                        2.3683065, 
+                        48.8528682
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 41465217, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3590046, 
+                        48.8500876
+                    ], 
+                    [
+                        2.3590768, 
+                        48.8501117
+                    ], 
+                    [
+                        2.3593818, 
+                        48.8502021
+                    ], 
+                    [
+                        2.3598154, 
+                        48.8503259
+                    ], 
+                    [
+                        2.3599775, 
+                        48.8503737
+                    ], 
+                    [
+                        2.3600915, 
+                        48.850406
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 41466668, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3176897, 
+                        48.8444234
+                    ], 
+                    [
+                        2.3177673, 
+                        48.8444415
+                    ], 
+                    [
+                        2.3179333, 
+                        48.8444801
+                    ], 
+                    [
+                        2.3182241, 
+                        48.8445589
+                    ], 
+                    [
+                        2.3183512, 
+                        48.8445933
+                    ], 
+                    [
+                        2.3188028, 
+                        48.8447211
+                    ], 
+                    [
+                        2.3191943, 
+                        48.8448291
+                    ], 
+                    [
+                        2.3194262, 
+                        48.8448899
+                    ], 
+                    [
+                        2.3196941, 
+                        48.8449625
+                    ], 
+                    [
+                        2.3197943, 
+                        48.8449896
+                    ], 
+                    [
+                        2.3198283, 
+                        48.8449988
+                    ], 
+                    [
+                        2.3202116, 
+                        48.8451136
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 44840928, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue de Vaugirard", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3671858, 
+                        48.8789257
+                    ], 
+                    [
+                        2.3675966, 
+                        48.8794119
+                    ], 
+                    [
+                        2.3679052, 
+                        48.879459
+                    ], 
+                    [
+                        2.3679783, 
+                        48.8794702
+                    ], 
+                    [
+                        2.3680526, 
+                        48.8795072
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 48964074, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Quai de Jemmapes", 
+                "oneway": "yes", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3658394, 
+                        48.8773371
+                    ], 
+                    [
+                        2.3661359, 
+                        48.8771353
+                    ], 
+                    [
+                        2.3663845, 
+                        48.8769858
+                    ], 
+                    [
+                        2.3675686, 
+                        48.87651
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 48965340, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "residential", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Rue des Écluses Saint-Martin", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154", 
+                "wikidata": "Q3452099", 
+                "zone:maxspeed": "FR:30"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3635294, 
+                        48.8731892
+                    ], 
+                    [
+                        2.3635529, 
+                        48.8731587
+                    ], 
+                    [
+                        2.3635968, 
+                        48.8731039
+                    ], 
+                    [
+                        2.3636106, 
+                        48.8730866
+                    ], 
+                    [
+                        2.3637458, 
+                        48.8729141
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 48965662, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Jul 23-Aug 21 Sa 14:00-20:00;Jul 23-Aug 21 Su,PH 10:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/extension-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17168"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3669911, 
+                        48.8795422
+                    ], 
+                    [
+                        2.3667346, 
+                        48.8792493
+                    ], 
+                    [
+                        2.3662531, 
+                        48.8786913
+                    ], 
+                    [
+                        2.3660335, 
+                        48.8784354
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 49417434, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "deprecated:day_off": "sunday", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3688368, 
+                        48.8824177
+                    ], 
+                    [
+                        2.3691744, 
+                        48.882443
+                    ], 
+                    [
+                        2.3694855, 
+                        48.8824994
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 51315953, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue La Fayette", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3585033, 
+                        48.9010734
+                    ], 
+                    [
+                        2.3585813, 
+                        48.9002558
+                    ], 
+                    [
+                        2.3586706, 
+                        48.8993096
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 52984779, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "foot": "yes", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Avenue de la Porte de La Chapelle", 
+                "old_ref": "N1", 
+                "oneway": "yes", 
+                "ref:FR:FANTOIR": "751187665M", 
+                "wikidata": "Q2874043"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3423794, 
+                        48.8583786
+                    ], 
+                    [
+                        2.342328, 
+                        48.8583154
+                    ], 
+                    [
+                        2.3423145, 
+                        48.8582988
+                    ], 
+                    [
+                        2.3415191, 
+                        48.8573202
+                    ], 
+                    [
+                        2.341427, 
+                        48.8572069
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 53574163, 
+            "properties": {
+                "alt_name:ru": "Новый Мост", 
+                "bridge": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "2", 
+                "layer": "1", 
+                "name": "Pont Neuf", 
+                "name:de": "Neue Brücke", 
+                "name:en": "New Bridge", 
+                "name:es": "Puente Nuevo", 
+                "name:pt": "Ponte Nova", 
+                "name:ru": "Новый мост", 
+                "name:zh": "新桥", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "wikipedia": "fr:Pont Neuf"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3231956, 
+                        48.8700963
+                    ], 
+                    [
+                        2.3230036, 
+                        48.8703894
+                    ], 
+                    [
+                        2.3229094, 
+                        48.8705334
+                    ], 
+                    [
+                        2.3228216, 
+                        48.8706721
+                    ], 
+                    [
+                        2.3228059, 
+                        48.8706962
+                    ], 
+                    [
+                        2.3226472, 
+                        48.8709405
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 54186291, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard Malesherbes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "surface": "sett"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3881211, 
+                        48.8389513
+                    ], 
+                    [
+                        2.3883636, 
+                        48.8389195
+                    ], 
+                    [
+                        2.3892212, 
+                        48.838981
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 55490269, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "cycleway:right": "track", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard de Bercy"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.4021719, 
+                        48.8371542
+                    ], 
+                    [
+                        2.4034875, 
+                        48.8366973
+                    ], 
+                    [
+                        2.404059, 
+                        48.8364609
+                    ], 
+                    [
+                        2.4056301, 
+                        48.8358908
+                    ], 
+                    [
+                        2.4057008, 
+                        48.835866
+                    ], 
+                    [
+                        2.4060294, 
+                        48.8357484
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 55497688, 
+            "properties": {
+                "cycleway:left": "track", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Avenue Daumesnil"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3151849, 
+                        48.8579622
+                    ], 
+                    [
+                        2.3152123, 
+                        48.8578527
+                    ], 
+                    [
+                        2.3150472, 
+                        48.8563805
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 56020254, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard des Invalides", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3556012, 
+                        48.8690222
+                    ], 
+                    [
+                        2.3554196, 
+                        48.8690638
+                    ], 
+                    [
+                        2.3553452, 
+                        48.8690809
+                    ], 
+                    [
+                        2.3551727, 
+                        48.8691205
+                    ], 
+                    [
+                        2.3544361, 
+                        48.86929
+                    ], 
+                    [
+                        2.3543279, 
+                        48.8693149
+                    ], 
+                    [
+                        2.354261, 
+                        48.8693299
+                    ], 
+                    [
+                        2.3542147, 
+                        48.8693408
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 56323286, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Saint-Denis", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "wikidata": "Q2404571"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2668972, 
+                        48.8350232
+                    ], 
+                    [
+                        2.26688, 
+                        48.8352322
+                    ], 
+                    [
+                        2.2668907, 
+                        48.8352659
+                    ], 
+                    [
+                        2.266923, 
+                        48.8353678
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 59708171, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "maxspeed": "50", 
+                "name": "Rue Pégoud", 
+                "oneway": "yes", 
+                "sidewalk": "right"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2895046, 
+                        48.8553069
+                    ], 
+                    [
+                        2.2894241, 
+                        48.8551785
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 59719867, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai Branly"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3104276, 
+                        48.8628653
+                    ], 
+                    [
+                        2.310366, 
+                        48.8642228
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 60419071, 
+            "properties": {
+                "bridge": "yes", 
+                "busway": "opposite_lane", 
+                "cycleway:left": "share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "layer": "1", 
+                "name": "Pont des Invalides", 
+                "name:de": "Invalidenbrücke", 
+                "name:ru": "мост Инвалидов", 
+                "name:uk": "Міст Інвалідів", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:bus": "no", 
+                "wikidata": "Q1073098", 
+                "wikipedia": "fr:Pont des Invalides"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.310366, 
+                        48.8642228
+                    ], 
+                    [
+                        2.3103655, 
+                        48.8642328
+                    ], 
+                    [
+                        2.310364, 
+                        48.864266
+                    ], 
+                    [
+                        2.3103615, 
+                        48.8643057
+                    ], 
+                    [
+                        2.3103551, 
+                        48.8644064
+                    ], 
+                    [
+                        2.3103516, 
+                        48.8644608
+                    ], 
+                    [
+                        2.3103474, 
+                        48.8645272
+                    ], 
+                    [
+                        2.3103421, 
+                        48.8646107
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 60419074, 
+            "properties": {
+                "busway": "opposite_lane", 
+                "cycleway:left": "share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "name": "Place du Canada", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:bus": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3657878, 
+                        48.877481
+                    ], 
+                    [
+                        2.3658637, 
+                        48.8774508
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 60732335, 
+            "properties": {
+                "cycleway": "opposite_track", 
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Pont Eugène Varlin", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3655129, 
+                        48.8775874
+                    ], 
+                    [
+                        2.3657878, 
+                        48.877481
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 60732337, 
+            "properties": {
+                "bridge": "yes", 
+                "cycleway": "opposite_track", 
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "layer": "1", 
+                "name": "Pont Eugène Varlin", 
+                "oneway": "yes", 
+                "wikidata": "Q3396524", 
+                "wikipedia": "fr:Pont Eugène-Varlin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3215904, 
+                        48.8600389
+                    ], 
+                    [
+                        2.3214376, 
+                        48.8600966
+                    ], 
+                    [
+                        2.3199876, 
+                        48.8606442
+                    ], 
+                    [
+                        2.3188814, 
+                        48.8607366
+                    ], 
+                    [
+                        2.3187953, 
+                        48.8607438
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 61578681, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "residential", 
+                "name": "Rue de l'Université", 
+                "name:ru": "улица Университе", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "wikidata": "Q3451302"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.365408, 
+                        48.8777063
+                    ], 
+                    [
+                        2.3652961, 
+                        48.8775749
+                    ], 
+                    [
+                        2.3647763, 
+                        48.8769649
+                    ], 
+                    [
+                        2.3645908, 
+                        48.8767472
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 64609503, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "deprecated:day_off": "sunday", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3523164, 
+                        48.8437874
+                    ], 
+                    [
+                        2.3523282, 
+                        48.8438559
+                    ], 
+                    [
+                        2.352376, 
+                        48.8441586
+                    ], 
+                    [
+                        2.3524172, 
+                        48.844475
+                    ], 
+                    [
+                        2.3524072, 
+                        48.8445233
+                    ], 
+                    [
+                        2.3523869, 
+                        48.8445772
+                    ], 
+                    [
+                        2.3517458, 
+                        48.8462754
+                    ], 
+                    [
+                        2.3517035, 
+                        48.8463926
+                    ], 
+                    [
+                        2.3516269, 
+                        48.8465983
+                    ], 
+                    [
+                        2.3515398, 
+                        48.8467071
+                    ], 
+                    [
+                        2.3512194, 
+                        48.8471074
+                    ], 
+                    [
+                        2.3506503, 
+                        48.847851
+                    ], 
+                    [
+                        2.3504691, 
+                        48.8480878
+                    ], 
+                    [
+                        2.3502806, 
+                        48.8483171
+                    ], 
+                    [
+                        2.3500873, 
+                        48.8485523
+                    ], 
+                    [
+                        2.3498182, 
+                        48.8489105
+                    ], 
+                    [
+                        2.3490325, 
+                        48.8499081
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 66098063, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "name": "Rue Monge"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3238947, 
+                        48.8692559
+                    ], 
+                    [
+                        2.3240871, 
+                        48.8691985
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 68915101, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "secondary", 
+                "lit": "yes", 
+                "name": "Place de la Madeleine", 
+                "oneway": "yes", 
+                "sidewalk": "both"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.353824, 
+                        48.8569231
+                    ], 
+                    [
+                        2.3537465, 
+                        48.8568533
+                    ], 
+                    [
+                        2.3537145, 
+                        48.8568037
+                    ], 
+                    [
+                        2.3532838, 
+                        48.8561089
+                    ], 
+                    [
+                        2.3532477, 
+                        48.8560378
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 83268801, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue de Lobau", 
+                "wikidata": "Q3450821"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3053872, 
+                        48.827623
+                    ], 
+                    [
+                        2.3056824, 
+                        48.8275549
+                    ], 
+                    [
+                        2.3058962, 
+                        48.8275056
+                    ], 
+                    [
+                        2.3059193, 
+                        48.8275003
+                    ], 
+                    [
+                        2.3059514, 
+                        48.8274929
+                    ], 
+                    [
+                        2.3061784, 
+                        48.8274212
+                    ], 
+                    [
+                        2.3067902, 
+                        48.8272811
+                    ], 
+                    [
+                        2.3070106, 
+                        48.8272356
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 84796905, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Brune", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3489893, 
+                        48.8499817
+                    ], 
+                    [
+                        2.3490325, 
+                        48.8499081
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 85068497, 
+            "properties": {
+                "admin_level": "10", 
+                "boundary": "administrative", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue Monge"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3753646, 
+                        48.8356811
+                    ], 
+                    [
+                        2.3754739, 
+                        48.8355935
+                    ], 
+                    [
+                        2.3754959, 
+                        48.8355759
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 85076175, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Quai de la Gare"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3720304, 
+                        48.8953017
+                    ], 
+                    [
+                        2.3720174, 
+                        48.8951555
+                    ], 
+                    [
+                        2.3732252, 
+                        48.8938485
+                    ], 
+                    [
+                        2.3732328, 
+                        48.893838
+                    ], 
+                    [
+                        2.3733111, 
+                        48.8937514
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 85784551, 
+            "properties": {
+                "busway:left": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "maxspeed": "50", 
+                "name": "Rue de Crimée", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3724639, 
+                        48.819939
+                    ], 
+                    [
+                        2.3718039, 
+                        48.8202604
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 96828513, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "maxspeed": "50", 
+                "name": "Avenue de la Porte d'Ivry", 
+                "source:maxspeed": "FR:urban"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3494726, 
+                        48.8838532
+                    ], 
+                    [
+                        2.3493084, 
+                        48.8837917
+                    ], 
+                    [
+                        2.3471954, 
+                        48.8835438
+                    ], 
+                    [
+                        2.3471294, 
+                        48.8835473
+                    ], 
+                    [
+                        2.3469998, 
+                        48.8835576
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 107629605, 
+            "properties": {
+                "access": "no", 
+                "bicycle": "yes", 
+                "cycleway:left": "lane", 
+                "highway": "service", 
+                "name": "Boulevard de Rochechouart", 
+                "oneway": "yes", 
+                "psv": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011", 
+                "wikipedia": "fr:Boulevard de Rochechouart"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3469998, 
+                        48.8835576
+                    ], 
+                    [
+                        2.3466423, 
+                        48.8835003
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 107629607, 
+            "properties": {
+                "abutters": "retail", 
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Boulevard de Rochechouart", 
+                "note": "[lapinos03] bande cyclable réservée (séparation peinte au sol) sur le couloir de bus sur le coté gauche de la voie", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011", 
+                "wikipedia": "fr:Boulevard de Rochechouart"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3675686, 
+                        48.87651
+                    ], 
+                    [
+                        2.3682356, 
+                        48.876053
+                    ], 
+                    [
+                        2.3683263, 
+                        48.8759909
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 112716637, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "residential", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Rue des Écluses Saint-Martin", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154", 
+                "wikidata": "Q3452099"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3046694, 
+                        48.8875671
+                    ], 
+                    [
+                        2.3046458, 
+                        48.8876438
+                    ], 
+                    [
+                        2.3043055, 
+                        48.8887506
+                    ], 
+                    [
+                        2.3042616, 
+                        48.8888806
+                    ], 
+                    [
+                        2.3042179, 
+                        48.8890261
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 122617717, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "secondary", 
+                "name": "Boulevard Malesherbes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3623471, 
+                        48.8679555
+                    ], 
+                    [
+                        2.3631535, 
+                        48.8674678
+                    ], 
+                    [
+                        2.363307, 
+                        48.8673737
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 123319398, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lanes": "5", 
+                "maxspeed": "50", 
+                "name": "Place de la République", 
+                "name:de": "Platz der Republik", 
+                "name:fr": "Place de la République", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3249628, 
+                        48.8753541
+                    ], 
+                    [
+                        2.3250799, 
+                        48.8753702
+                    ], 
+                    [
+                        2.3261791, 
+                        48.8755307
+                    ], 
+                    [
+                        2.3262366, 
+                        48.8755391
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 123319400, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "secondary", 
+                "name": "Rue Saint-Lazare", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3823707, 
+                        48.8399491
+                    ], 
+                    [
+                        2.3821477, 
+                        48.8399876
+                    ], 
+                    [
+                        2.3816419, 
+                        48.8400701
+                    ], 
+                    [
+                        2.3806718, 
+                        48.8402513
+                    ], 
+                    [
+                        2.3799089, 
+                        48.8403806
+                    ], 
+                    [
+                        2.3798292, 
+                        48.8403945
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 123332688, 
+            "properties": {
+                "addr:street": "Boulevard de Bercy", 
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard de Bercy", 
+                "note": "[lapinos03] Piste cyclable d'après plan officiel 2008/02 - vérifié sur place"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3488843, 
+                        48.8566299
+                    ], 
+                    [
+                        2.3483518, 
+                        48.8557219
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 138031419, 
+            "properties": {
+                "bicycle": "yes", 
+                "bridge": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "layer": "1", 
+                "lit": "yes", 
+                "name": "Pont Notre-Dame", 
+                "oneway": "yes", 
+                "sidewalk": "both", 
+                "source": "Bing", 
+                "wikipedia": "fr:Pont Notre-Dame"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3097455, 
+                        48.8805033
+                    ], 
+                    [
+                        2.3099245, 
+                        48.8805305
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 138276753, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "name": "Boulevard de Courcelles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3120108, 
+                        48.8807829
+                    ], 
+                    [
+                        2.3124352, 
+                        48.8808343
+                    ], 
+                    [
+                        2.3125429, 
+                        48.8808474
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 138276754, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "name": "Boulevard de Courcelles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3855353, 
+                        48.8830072
+                    ], 
+                    [
+                        2.3856856, 
+                        48.8830237
+                    ], 
+                    [
+                        2.3857991, 
+                        48.8830362
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 156617863, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue Manin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3876001, 
+                        48.8474412
+                    ], 
+                    [
+                        2.3873868, 
+                        48.8474176
+                    ], 
+                    [
+                        2.3870195, 
+                        48.8473769
+                    ], 
+                    [
+                        2.3869392, 
+                        48.8473659
+                    ], 
+                    [
+                        2.386773, 
+                        48.8473433
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 166031130, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "secondary", 
+                "name": "Boulevard Diderot"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.365148, 
+                        48.8667127
+                    ], 
+                    [
+                        2.3652139, 
+                        48.866765
+                    ], 
+                    [
+                        2.3652579, 
+                        48.8668021
+                    ], 
+                    [
+                        2.3653879, 
+                        48.8668929
+                    ], 
+                    [
+                        2.3655165, 
+                        48.8669826
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 172654733, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Place de la République", 
+                "name:de": "Platz der Republik", 
+                "name:fr": "Place de la République"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.367082, 
+                        48.8686169
+                    ], 
+                    [
+                        2.3671105, 
+                        48.8685816
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 172677925, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "name": "Boulevard Jules Ferry", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3622571, 
+                        48.851052
+                    ], 
+                    [
+                        2.3626942, 
+                        48.851188
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 192222119, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3457166, 
+                        48.8710443
+                    ], 
+                    [
+                        2.3455936, 
+                        48.8710639
+                    ], 
+                    [
+                        2.3432043, 
+                        48.871467
+                    ], 
+                    [
+                        2.3430679, 
+                        48.871489
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 194586818, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Boulevard Poissonnière", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3548965, 
+                        48.8499888
+                    ], 
+                    [
+                        2.3547337, 
+                        48.8500416
+                    ], 
+                    [
+                        2.3535433, 
+                        48.8504275
+                    ], 
+                    [
+                        2.3530558, 
+                        48.8505839
+                    ], 
+                    [
+                        2.3526047, 
+                        48.8507246
+                    ], 
+                    [
+                        2.351856, 
+                        48.8509548
+                    ], 
+                    [
+                        2.3512953, 
+                        48.8511272
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 196524388, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Quai de la Tournelle", 
+                "name:ru": "набережная Турнель", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3593445, 
+                        48.8847815
+                    ], 
+                    [
+                        2.3593374, 
+                        48.8846232
+                    ], 
+                    [
+                        2.3593332, 
+                        48.8845697
+                    ], 
+                    [
+                        2.359327, 
+                        48.8845286
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 224883158, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Rue Marx Dormoy"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2894241, 
+                        48.8551785
+                    ], 
+                    [
+                        2.2893503, 
+                        48.8550861
+                    ], 
+                    [
+                        2.2892096, 
+                        48.8549278
+                    ], 
+                    [
+                        2.2891587, 
+                        48.8548746
+                    ], 
+                    [
+                        2.2890149, 
+                        48.8547359
+                    ], 
+                    [
+                        2.2888812, 
+                        48.854607
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 230125066, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai Branly", 
+                "source": "survey 2013-07-12"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3508122, 
+                        48.8388494
+                    ], 
+                    [
+                        2.3509674, 
+                        48.8391204
+                    ], 
+                    [
+                        2.3512296, 
+                        48.8395818
+                    ], 
+                    [
+                        2.3512855, 
+                        48.8396802
+                    ], 
+                    [
+                        2.3513626, 
+                        48.8398482
+                    ], 
+                    [
+                        2.3514135, 
+                        48.8399592
+                    ], 
+                    [
+                        2.351537, 
+                        48.8401456
+                    ], 
+                    [
+                        2.351654, 
+                        48.8403633
+                    ], 
+                    [
+                        2.3517278, 
+                        48.8404942
+                    ], 
+                    [
+                        2.3518337, 
+                        48.8407665
+                    ], 
+                    [
+                        2.3518619, 
+                        48.8408275
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 237932372, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue Monge"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.310603, 
+                        48.8625961
+                    ], 
+                    [
+                        2.310668, 
+                        48.8626068
+                    ], 
+                    [
+                        2.3116542, 
+                        48.8627924
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 264881752, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai d'Orsay"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3789438, 
+                        48.8887716
+                    ], 
+                    [
+                        2.3791216, 
+                        48.8886132
+                    ], 
+                    [
+                        2.3792429, 
+                        48.8885121
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 282543200, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "maxspeed": "30", 
+                "name": "Rue de Crimée", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3248849, 
+                        48.8753428
+                    ], 
+                    [
+                        2.3249628, 
+                        48.8753541
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 294875081, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "secondary", 
+                "name": "Rue Saint-Lazare", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3584643, 
+                        48.9015626
+                    ], 
+                    [
+                        2.3585033, 
+                        48.9010734
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 299647505, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "foot": "yes", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Avenue de la Porte de La Chapelle", 
+                "old_ref": "N1", 
+                "oneway": "yes", 
+                "ref:FR:FANTOIR": "751187665M", 
+                "surface": "asphalt"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3911543, 
+                        48.8638183
+                    ], 
+                    [
+                        2.3915362, 
+                        48.863914
+                    ], 
+                    [
+                        2.3916505, 
+                        48.8639427
+                    ], 
+                    [
+                        2.3918312, 
+                        48.8639897
+                    ], 
+                    [
+                        2.3922539, 
+                        48.8640998
+                    ], 
+                    [
+                        2.3923473, 
+                        48.8641239
+                    ], 
+                    [
+                        2.3938178, 
+                        48.8645042
+                    ], 
+                    [
+                        2.3943038, 
+                        48.8646299
+                    ], 
+                    [
+                        2.3945026, 
+                        48.8646813
+                    ], 
+                    [
+                        2.394588, 
+                        48.864705
+                    ], 
+                    [
+                        2.3951665, 
+                        48.8648429
+                    ], 
+                    [
+                        2.395371, 
+                        48.8648927
+                    ], 
+                    [
+                        2.3955484, 
+                        48.8649952
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 307919389, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "maxspeed": "30", 
+                "name": "Avenue Gambetta", 
+                "oneway": "no", 
+                "source:maxspeed": "signalisation, proximité école"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3659526, 
+                        48.878341
+                    ], 
+                    [
+                        2.3654649, 
+                        48.8777726
+                    ], 
+                    [
+                        2.365408, 
+                        48.8777063
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 310297252, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "deprecated:day_off": "sunday", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3628742, 
+                        48.8746121
+                    ], 
+                    [
+                        2.3628531, 
+                        48.8744882
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 310297254, 
+            "properties": {
+                "bicycle": "yes", 
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "motor_vehicle:conditional": "destination @ (Oct-Mar Su,PH 10:00-18:00;Apr-Sep Su,PH 10:00-20:00;Jul 23-Aug 21 Sa 14:00-20:00)", 
+                "name": "Quai de Valmy", 
+                "oneway": "yes", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010", 
+                "source:motor_vehicle:access": "http://www.paris.fr/loisirs/se-promener-a-paris/paris-respire-et-vous/quartier-canal-saint-martin-10e/rub_9642_dossier_91813_port_24046_sheet_17154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2821986, 
+                        48.8389566
+                    ], 
+                    [
+                        2.2821055, 
+                        48.8387031
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 311813065, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "residential", 
+                "name": "Rue de Lourmel", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3518619, 
+                        48.8408275
+                    ], 
+                    [
+                        2.351883, 
+                        48.8409632
+                    ], 
+                    [
+                        2.351978, 
+                        48.8415735
+                    ], 
+                    [
+                        2.3519925, 
+                        48.8416665
+                    ], 
+                    [
+                        2.352, 
+                        48.8417191
+                    ], 
+                    [
+                        2.3520505, 
+                        48.8420738
+                    ], 
+                    [
+                        2.3520639, 
+                        48.8421678
+                    ], 
+                    [
+                        2.3521211, 
+                        48.8426062
+                    ], 
+                    [
+                        2.3521367, 
+                        48.8426925
+                    ], 
+                    [
+                        2.3521521, 
+                        48.8427777
+                    ], 
+                    [
+                        2.3521969, 
+                        48.843003
+                    ], 
+                    [
+                        2.3522244, 
+                        48.8431782
+                    ], 
+                    [
+                        2.3522323, 
+                        48.8432432
+                    ], 
+                    [
+                        2.3523043, 
+                        48.8437087
+                    ], 
+                    [
+                        2.3523164, 
+                        48.8437874
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 313695844, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Rue Monge"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3093826, 
+                        48.8804482
+                    ], 
+                    [
+                        2.3097455, 
+                        48.8805033
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 318523942, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "name": "Boulevard de Courcelles"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3209086, 
+                        48.88124
+                    ], 
+                    [
+                        2.3210902, 
+                        48.8809061
+                    ], 
+                    [
+                        2.3213323, 
+                        48.880461
+                    ], 
+                    [
+                        2.3215751, 
+                        48.8800082
+                    ], 
+                    [
+                        2.3218553, 
+                        48.8794879
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 330424446, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "foot": "yes", 
+                "highway": "secondary", 
+                "name": "Rue de Rome"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.305877, 
+                        48.8476304
+                    ], 
+                    [
+                        2.3060166, 
+                        48.8477674
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 330440864, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "name": "Avenue de Ségur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3145212, 
+                        48.8518143
+                    ], 
+                    [
+                        2.3145148, 
+                        48.8517327
+                    ], 
+                    [
+                        2.3144942, 
+                        48.851471
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 331194110, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "name": "Boulevard des Invalides", 
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3187818, 
+                        48.8375884
+                    ], 
+                    [
+                        2.3187033, 
+                        48.8375242
+                    ], 
+                    [
+                        2.3185598, 
+                        48.8374068
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 336796584, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "tertiary", 
+                "name": "Rue du Commandant René Mouchotte", 
+                "ref:FR:FANTOIR": "751142236H"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.352854, 
+                        48.8552755
+                    ], 
+                    [
+                        2.3529262, 
+                        48.8553791
+                    ], 
+                    [
+                        2.3529369, 
+                        48.8553822
+                    ], 
+                    [
+                        2.3529865, 
+                        48.8554872
+                    ], 
+                    [
+                        2.3530901, 
+                        48.8557161
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 361292433, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue de Lobau", 
+                "oneway": "yes", 
+                "wikidata": "Q3450821"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3525891, 
+                        48.8553825
+                    ], 
+                    [
+                        2.352854, 
+                        48.8552755
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 361292434, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai de l'Hôtel de Ville", 
+                "wikidata": "Q3412693"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3530901, 
+                        48.8557161
+                    ], 
+                    [
+                        2.3528875, 
+                        48.8554822
+                    ], 
+                    [
+                        2.3527934, 
+                        48.8554326
+                    ], 
+                    [
+                        2.3527189, 
+                        48.8554035
+                    ], 
+                    [
+                        2.3525891, 
+                        48.8553825
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 361292435, 
+            "properties": {
+                "addr:street": "Rue de Lobau", 
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue de Lobau", 
+                "oneway": "yes", 
+                "wikidata": "Q3450821"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3147762, 
+                        48.8752531
+                    ], 
+                    [
+                        2.3156888, 
+                        48.8752962
+                    ], 
+                    [
+                        2.3157926, 
+                        48.8752927
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 362619207, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Boulevard Haussmann"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3512953, 
+                        48.8511272
+                    ], 
+                    [
+                        2.3511583, 
+                        48.8511703
+                    ], 
+                    [
+                        2.3508595, 
+                        48.8512643
+                    ], 
+                    [
+                        2.350421, 
+                        48.8514343
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 362880601, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "name": "Quai de la Tournelle", 
+                "name:ru": "набережная Турнель", 
+                "oneway": "yes", 
+                "sidewalk": "both"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3599326, 
+                        48.8900138
+                    ], 
+                    [
+                        2.3599362, 
+                        48.8898396
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 365059513, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "lit": "yes", 
+                "maxspeed": "50", 
+                "name": "Rue Marx Dormoy"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.317908, 
+                        48.89097
+                    ], 
+                    [
+                        2.3179348, 
+                        48.8909979
+                    ], 
+                    [
+                        2.3180154, 
+                        48.8910816
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 365264103, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "name": "Rue Cardinet"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.316111, 
+                        48.8891025
+                    ], 
+                    [
+                        2.3161426, 
+                        48.8891353
+                    ], 
+                    [
+                        2.3161697, 
+                        48.8891635
+                    ], 
+                    [
+                        2.3161962, 
+                        48.8891911
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 365264739, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "cycleway:right": "track", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "name": "Rue Cardinet"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3160268, 
+                        48.8890149
+                    ], 
+                    [
+                        2.316083, 
+                        48.8890733
+                    ], 
+                    [
+                        2.316111, 
+                        48.8891025
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 365264741, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "maxspeed": "30", 
+                "name": "Rue Cardinet"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3013158, 
+                        48.8596553
+                    ], 
+                    [
+                        2.3011654, 
+                        48.8596371
+                    ], 
+                    [
+                        2.3010084, 
+                        48.8596427
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 366310967, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue Edmond Valentin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3628405, 
+                        48.8683526
+                    ], 
+                    [
+                        2.3629441, 
+                        48.868428
+                    ], 
+                    [
+                        2.3629796, 
+                        48.868467
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 368899834, 
+            "properties": {
+                "busway:right": "lane", 
+                "cycleway:left": "lane", 
+                "cycleway:right": "share_busway", 
+                "highway": "primary", 
+                "lanes": "4", 
+                "maxspeed": "50", 
+                "name": "Place de la République", 
+                "name:de": "Platz der Republik", 
+                "name:fr": "Place de la République"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3785621, 
+                        48.8891204
+                    ], 
+                    [
+                        2.37881, 
+                        48.8888918
+                    ], 
+                    [
+                        2.3788947, 
+                        48.8888136
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 373187858, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "residential", 
+                "name": "Rue de Crimée", 
+                "oneway": "yes"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3743942, 
+                        48.836763
+                    ], 
+                    [
+                        2.3744462, 
+                        48.8367047
+                    ], 
+                    [
+                        2.3748902, 
+                        48.8362073
+                    ], 
+                    [
+                        2.3752598, 
+                        48.8357858
+                    ], 
+                    [
+                        2.3753646, 
+                        48.8356811
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 382862645, 
+            "properties": {
+                "cycleway:left": "lane", 
+                "highway": "primary", 
+                "maxspeed": "50", 
+                "name": "Quai de la Gare"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2819112, 
+                        48.8491547
+                    ], 
+                    [
+                        2.2820028, 
+                        48.8490951
+                    ], 
+                    [
+                        2.282264, 
+                        48.8489236
+                    ], 
+                    [
+                        2.282767, 
+                        48.8485945
+                    ], 
+                    [
+                        2.2828671, 
+                        48.8485289
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 387178544, 
+            "properties": {
+                "cycleway": "lane", 
+                "cycleway:left": "lane", 
+                "highway": "tertiary", 
+                "name": "Rue Linois", 
+                "oneway": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3637502, 
+                        48.8515088
+                    ], 
+                    [
+                        2.3654458, 
+                        48.8520336
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 390294215, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3667052, 
+                        48.8524059
+                    ], 
+                    [
+                        2.3669196, 
+                        48.8524713
+                    ], 
+                    [
+                        2.3673358, 
+                        48.8525982
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 390294216, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3626942, 
+                        48.851188
+                    ], 
+                    [
+                        2.3628079, 
+                        48.8512225
+                    ], 
+                    [
+                        2.3637502, 
+                        48.8515088
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 390294217, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3654458, 
+                        48.8520336
+                    ], 
+                    [
+                        2.3655337, 
+                        48.8520599
+                    ], 
+                    [
+                        2.3657225, 
+                        48.8521164
+                    ], 
+                    [
+                        2.3659997, 
+                        48.8521989
+                    ], 
+                    [
+                        2.3663008, 
+                        48.8522872
+                    ], 
+                    [
+                        2.3667052, 
+                        48.8524059
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 390294218, 
+            "properties": {
+                "busway:left": "opposite_lane", 
+                "cycleway:left": "opposite_share_busway", 
+                "cycleway:right": "lane", 
+                "highway": "secondary", 
+                "lanes": "3", 
+                "lanes:forward": "2", 
+                "lanes:psv:backward": "1", 
+                "name": "Boulevard Henri IV", 
+                "oneway": "yes", 
+                "oneway:bicycle": "no", 
+                "oneway:psv": "no"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.3676277, 
+                        48.853368
+                    ], 
+                    [
+                        2.3672659, 
+                        48.8534192
+                    ], 
+                    [
+                        2.3671587, 
+                        48.8534347
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 390294220, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "highway": "primary", 
+                "name": "Rue Saint-Antoine"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.2656866, 
+                        48.8346329
+                    ], 
+                    [
+                        2.2660732, 
+                        48.834978
+                    ], 
+                    [
+                        2.2663828, 
+                        48.8351765
+                    ], 
+                    [
+                        2.2667001, 
+                        48.8353425
+                    ], 
+                    [
+                        2.2668085, 
+                        48.8354051
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "id": 440502045, 
+            "properties": {
+                "cycleway:right": "lane", 
+                "foot": "no", 
+                "highway": "primary", 
+                "lanes": "3", 
+                "name": "Quai d'Issy-les-Moulineaux", 
+                "oneway": "yes", 
+                "ref": "D 7"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
