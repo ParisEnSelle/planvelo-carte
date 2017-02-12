@@ -1083,8 +1083,8 @@
             48.839992071006506
           ],
           [
-            2.4020576477050786,
-            48.84489239771958
+            2.402033507823944,
+            48.84483591253515
           ]
         ]
       }
@@ -2610,14 +2610,15 @@
         "stroke": "#228b22",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Picpus - Reuilly"
+        "name": "Picpus - Reuilly",
+        "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.402100563049317,
-            48.84497712537673
+            2.4020549654960632,
+            48.84482708671934
           ],
           [
             2.4003195762634277,
@@ -2625,25 +2626,34 @@
           ]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Picpus - Reuilly"
+        "name": "Picpus - Reuilly",
+        "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.3953628540039067,
-            48.83941303819501
+            2.3954084515571594,
+            48.83953661283245
           ],
           [
-            2.3881959915161137,
-            48.83887636766108
+            2.3940029740333557,
+            48.83938479252077
+          ],
+          [
+            2.392602860927582,
+            48.839264748227635
+          ],
+          [
+            2.3898214101791377,
+            48.83903701635151
           ]
         ]
       }
@@ -3755,7 +3765,7 @@
           ]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -3766,7 +3776,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [
             2.2929990291595463,
             48.87442541960636
