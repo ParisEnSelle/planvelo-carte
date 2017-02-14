@@ -311,7 +311,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avenue de St Maurice"
+        "name": "Avenue de Saint-Maurice"
       },
       "geometry": {
         "type": "LineString",
@@ -1065,7 +1065,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Picpus-Reuilly"
+        "name": "Picpus - Reuilly"
       },
       "geometry": {
         "type": "LineString",
@@ -1092,7 +1092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pte Maillot - Pte de la Chapelle "
+        "name": "Porte Maillot - Porte de la Chapelle "
       },
       "geometry": {
         "type": "LineString",
@@ -2535,8 +2535,8 @@
         "stroke": "#ffa500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "av de la porte d'Ivry",
-        "description": "aménagement pas satisfaisant, piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux"
+        "name": "Avenue de la Porte d'Ivry",
+        "description": "Piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux."
       },
       "geometry": {
         "type": "LineString",
@@ -2558,8 +2558,8 @@
         "stroke": "#ffa500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Magenta",
-        "description": "piste retravaillé, mais toujours insatisfaisante"
+        "name": "Boulevard de Magenta",
+        "description": "Piste retravaillée, mais toujours non satisfaisante."
       },
       "geometry": {
         "type": "LineString",
@@ -2664,8 +2664,8 @@
         "stroke": "#228b22",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "place d'Italie",
-        "description": "piste existante améliorée (devant Italie 2)"
+        "name": "Place d'Italie",
+        "description": "Piste existante améliorée (devant Italie 2)."
       },
       "geometry": {
         "type": "LineString",
@@ -2688,7 +2688,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Tour Maubourg",
-        "description": "sens nord-sud: couloir de bus élargi et ouvert aux vélos"
+        "description": "Sens Nord-Sud : couloir de bus élargi et ouvert aux vélos."
       },
       "geometry": {
         "type": "LineString",
@@ -3215,7 +3215,7 @@
         "stroke-width": 7,
         "stroke-opacity": 1,
         "name": "Bourdon -  Porte de Bercy",
-        "description": "pas sûr du lieu de pasage sur les Quais de la Râpée - de Bercy"
+        "description": "Incertitude sur l'itinéraire pour passer sur les Quais de la Râpée - de Bercy."
       },
       "geometry": {
         "type": "LineString",
@@ -3886,7 +3886,7 @@
         "stroke": "#555555",
         "stroke-width": 7,
         "stroke-opacity": 1,
-        "name": "Concorde-Bastille"
+        "name": "Concorde - Bastille"
       },
       "geometry": {
         "type": "LineString",
@@ -3988,7 +3988,7 @@
         "stroke": "#555555",
         "stroke-width": 7,
         "stroke-opacity": 1,
-        "name": "Concorde-Bourdon"
+        "name": "Concorde - Bourdon"
       },
       "geometry": {
         "type": "LineString",
