@@ -2533,7 +2533,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffa500",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Avenue de la Porte d'Ivry",
         "description": "Piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux."
@@ -2556,7 +2556,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffa500",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Boulevard de Magenta",
         "description": "Piste retravaillée, mais toujours non satisfaisante."
@@ -2583,7 +2583,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -2608,7 +2608,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Picpus - Reuilly",
         "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
@@ -2631,7 +2631,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Picpus - Reuilly",
         "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
@@ -2662,7 +2662,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Place d'Italie",
         "description": "Piste existante améliorée (devant Italie 2)."
@@ -2685,7 +2685,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Tour Maubourg",
         "description": "Sens Nord-Sud : couloir de bus élargi et ouvert aux vélos."
@@ -2708,7 +2708,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Arc de Triomphe"
       },
@@ -2898,7 +2898,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Bastille - Vincennes"
       },
@@ -3212,7 +3212,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Bourdon -  Porte de Bercy",
         "description": "Incertitude sur l'itinéraire pour passer sur les Quais de la Râpée - de Bercy."
@@ -3435,7 +3435,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Châtelet - Aubervilliers"
       },
@@ -3557,7 +3557,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Châtelet - Porte d'Orléans",
         "_storage_options": "{\"opacity\":\"1\"}"
@@ -3748,7 +3748,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Arc de Triomphe"
       },
@@ -3770,7 +3770,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Arc de Triomphe"
       },
@@ -3884,7 +3884,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Bastille"
       },
@@ -3986,7 +3986,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Bourdon"
       },
@@ -4160,7 +4160,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Cloud - Concorde"
       },
@@ -4250,7 +4250,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Issy"
       },
@@ -4404,7 +4404,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Ivry"
       },
@@ -4534,7 +4534,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 7,
+        "stroke-width": 8,
         "stroke-opacity": 1
       },
       "geometry": {
