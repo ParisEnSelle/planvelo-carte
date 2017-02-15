@@ -32,7 +32,7 @@ Voici une documentation pour les non-initiés à `Git`.
 * Une fois connecté, vous devriez avoir un écran similaire à celui-ci.
 ![Autoriser](assets/contribuer_editor-authorize_2.png)
 
-* Ouvrir la carte à éditer dans l'éditeur de carte [geojson.io](http://geojson.io). Open > Github > `la-carte-à-éditer.geojson`.
+* Ouvrir la carte à éditer. Open > Github > `la-carte-à-éditer.geojson`.
 ![Ouvrir](assets/contribuer_PR_2.png)
 
 * Faire la modifications
@@ -45,6 +45,16 @@ Voici une documentation pour les non-initiés à `Git`.
 * Vérification de l'enregistrement: afficher la liste des commits de votre fork
 ![Liste de commits](assets/contribuer_PR_4.png)
 
+* Créer une pull request à partir de votre fork
+![Créer une PR](assets/contribuer_PR_6.png)
+
+* Donner un titre et une description à votre PR, et valider.
+![Créer une PR](assets/contribuer_PR_7.png)
+
+* La PR est créée et proposée au projet dont est issu votre fork.
+![Créer une PR](assets/contribuer_PR_8.png)
+
+* Votre contribution sera ensuite fusionnée dans le projet, le cas échéant. Merci à vous!
 
 ## Membres Paris en Selle
 
