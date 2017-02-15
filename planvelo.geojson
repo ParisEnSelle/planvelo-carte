@@ -2559,7 +2559,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Boulevard de Magenta",
-        "description": "Piste retravaillée, mais toujours non satisfaisante."
+        "description": "Piste retravaillée, mais toujours insatisfaisante."
       },
       "geometry": {
         "type": "LineString",
