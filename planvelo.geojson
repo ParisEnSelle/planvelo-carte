@@ -2584,7 +2584,9 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 4,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Rue Bobillot",
+        "description": "Bande cyclable à contre-sens"
       },
       "geometry": {
         "type": "LineString",
@@ -4535,7 +4537,9 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Quai François Mauriac, devant BNF",
+        "description": "Piste bidirectionnelle conforme au cahier des charges du REVe."
       },
       "geometry": {
         "type": "LineString",
