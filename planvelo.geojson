@@ -2559,7 +2559,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Boulevard de Magenta",
-        "description": "Piste retravaillée, mais toujours non satisfaisante."
+        "description": "Meilleure délimitation des passages piétons sur la piste qui ne règle rien au problème de fond d'un manque d'espace pour piétons et vélos."
       },
       "geometry": {
         "type": "LineString",
@@ -2586,7 +2586,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue Bobillot",
-        "description": "Bande cyclable à contre-sens"
+        "description": "Bande cyclable à contre-sens."
       },
       "geometry": {
         "type": "LineString",
