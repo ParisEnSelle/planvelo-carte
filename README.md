@@ -1,5 +1,5 @@
-# Observatoire du plan vélo
+# Observatoire du Plan Vélo
 
-Ce projet contient les cartes de l'avancement du plan vélo 2015-2020 de la ville de Paris:
+À travers cet observatoire, l'association Paris en Selle souhaite permettre à tous d'être tenus informés des avancées du Plan Vélo voté par la mairie de Paris en avril 2015.
 
-https://parisenselle.github.io/planvelo-carte/
+Documentation: https://parisenselle.github.io/planvelo-carte/
