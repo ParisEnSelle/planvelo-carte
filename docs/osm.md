@@ -1,4 +1,4 @@
-# Extraction des données OSM
+# Données OpenStreetMap
 
 ## Outils utilisés
 
@@ -6,7 +6,7 @@ Ces cartes sont réalisées à partir de données [OpenStreetMap](openstreetmap.
 
 Les références des pistes cyclables sont expliquées dans le [wiki](https://wiki.openstreetmap.org/wiki/Bicycle).
 
-## Générer les cartes
+## Extraire les données
 
 Les requêtes `Overpass` et les noms des fichiers de carte cibles se trouvent dans le dict python `queries` du script  `extract.py`.
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### Extraction
 
-* Lancer la commande `python extract.py`. Les cartes sont générées à la racine du dossier où le script est lancé. Ce dernier écrase les précédentes.
+* Lancer la commande `python extract.py`.
 
 ## Les cartes
 
