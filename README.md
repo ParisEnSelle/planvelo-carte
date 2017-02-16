@@ -1,5 +1,6 @@
 # Observatoire du Plan Vélo
 
-À travers cet observatoire, l'association Paris en Selle souhaite permettre à tous d'être tenus informés des avancées du Plan Vélo voté par la mairie de Paris en avril 2015.
+Avec cet observatoire, l'association Paris en Selle informe les habitants de Paris  et d’Île-de-France sur l'avancement des politiques cyclables et l'amélioration des  conditions de circulation à vélo dans la capitale.
 
 Documentation: https://parisenselle.github.io/planvelo-carte/
+Site web: https://planvelo.paris/
