@@ -12,6 +12,8 @@
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/opendata.paris.fr/zones-de-circulation-apaisee.geojson"></script>
 
+* "Fraicheur des données": Septembre 2016
+
 * Licence: [ODbL](https://opendatacommons.org/licenses/odbl/)
 
 ### Stationnement sur voie publique - emplacements

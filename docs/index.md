@@ -20,7 +20,7 @@
 
 `opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson`: Zones 30 et zones de rencontres.
 
-Fork du dataset originalement issu de [opendata.paris.fr](https://opendata.paris.fr). Voir la [page dédiée](opendata-paris.md) pour plus d'informations.
+Fork du dataset originalement issu de [opendata.paris.fr](https://opendata.paris.fr). Nous avons ajouté les zones manquantes selon [des données de l'APUR](https://raw.githubusercontent.com/ParisEnSelle/planvelo-carte/master/opendata.paris.fr/zones-apaisees_APUR.png) ([Source](http://www.apur.org/sites/default/files/documents/atlas_espace_public_paris.pdf)).
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson"></script>
 
