@@ -695,6 +695,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Boulevard Arago"
       },
       "geometry": {
