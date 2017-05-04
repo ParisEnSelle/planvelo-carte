@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "point-noir",
+        "description": "amorce de la piste très dangereuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38777756690979,
+          48.8364683409338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "deux feux vélo inutiles dans le sens Dugommier-Bercy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3828530311584473,
+          48.83989321221986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3952770233154297,
+            48.83980847596171
+          ],
+          [
+            2.39377498626709,
+            48.84017566537832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3934531211853027,
+            48.84006268430606
+          ],
+          [
+            2.3951268196105957,
+            48.83963900301541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "info": "absence de dsc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.397465705871582,
+            48.84271767212906
+          ],
+          [
+            2.396693229675293,
+            48.84237874534984
+          ],
+          [
+            2.394118309020996,
+            48.84106538241659
+          ]
+        ]
+      }
+    }
+  ]
+}
