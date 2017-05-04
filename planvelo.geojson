@@ -4565,6 +4565,45 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "st-michel-nord",
+        "description": "aménagement non-conforme au cahier des charges du REV (voie de bus de substitution)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3410534858703613,
+            48.84767421421626
+          ],
+          [
+            2.3421692848205566,
+            48.84958044593268
+          ],
+          [
+            2.3426413536071777,
+            48.85032879854689
+          ],
+          [
+            2.3431777954101562,
+            48.85135953006185
+          ],
+          [
+            2.3437142372131348,
+            48.85248907447689
+          ],
+          [
+            2.34433650970459,
+            48.8538303753715
+          ]
+        ]
+      }
     }
   ]
 }
