@@ -2472,18 +2472,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue Turbigo"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue Turbigo (3e)"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.3462033271789555,
-            48.86325376575246
+            2.351717948913574,
+            48.864460678596956
           ],
           [
-            2.35608458518982,
-            48.86544877270663
+            2.3586273193359375,
+            48.86604161980793
           ],
           [
             2.361921072006226,
@@ -4601,6 +4604,28 @@
           [
             2.34433650970459,
             48.8538303753715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue de Turbigo (2e)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.346310615539551,
+            48.863246707697
+          ],
+          [
+            2.3514175415039062,
+            48.86437598390834
           ]
         ]
       }
