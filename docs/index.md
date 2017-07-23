@@ -2,11 +2,17 @@
 
 ## Projets du plan vélo
 
-`planvelo.geojson`: Projets [définis](assets/planvelo.jpeg) dans le plan vélo
+`planvelo-theorie.geojson`: Projets [définis](assets/planvelo.jpeg) dans le plan vélo. La carte ne nécessite normalement plus aucune modification.
 
-<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo.geojson"></script>
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-theorie.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo.geojson)
+[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-theorie.geojson)
+
+`planvelo-pratique.geojson`: Projets réalisés dans le plan vélo, à mettre à jour à chaque nouvelle réalisation.
+
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-pratique.geojson"></script>
+
+[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-pratique.geojson)
 
 ## Projets hors plan vélo
 
