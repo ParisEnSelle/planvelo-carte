@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Boulevard Arago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3326206207275395,
+            48.83444155423872
+          ],
+          [
+            2.3462033271789555,
+            48.8350065204454
+          ],
+          [
+            2.3518037796020512,
+            48.836786122351945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de la Porte d'Ivry",
+        "description": "Piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3717164993286137,
+            48.82031532834292
+          ],
+          [
+            2.3693990707397465,
+            48.821473828750506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Boulevard de Magenta",
+        "description": "Meilleure délimitation des passages piétons sur la piste qui ne règle pas le problème de fond d'un manque d'espace pour piétons et vélos."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.34951987862587,
+            48.883606820634476
+          ],
+          [
+            2.349585592746735,
+            48.8835133393571
+          ],
+          [
+            2.36300602555275,
+            48.86853644105582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue Bobillot",
+        "description": "Bande cyclable à contre-sens."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.355215549468994,
+            48.83099865370754
+          ],
+          [
+            2.3549956083297734,
+            48.83089977717183
+          ],
+          [
+            2.3530644178390507,
+            48.82846311517607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Picpus - Reuilly",
+        "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4020549654960632,
+            48.84482708671934
+          ],
+          [
+            2.4003195762634277,
+            48.839992071006506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Picpus - Reuilly",
+        "description": "Piste bidirectionnelle d'un seul côté de la chaussée."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3954084515571594,
+            48.83953661283245
+          ],
+          [
+            2.3940029740333557,
+            48.83938479252077
+          ],
+          [
+            2.392602860927582,
+            48.839264748227635
+          ],
+          [
+            2.3898214101791377,
+            48.83903701635151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Place d'Italie",
+        "description": "Piste existante améliorée (devant Italie 2)."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3559021949768066,
+            48.830839744894256
+          ],
+          [
+            2.3551404476165776,
+            48.83106574838852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Tour Maubourg",
+        "description": "Sens Nord-Sud : couloir de bus élargi et ouvert aux vélos."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.31039047241211,
+            48.86251972265396
+          ],
+          [
+            2.3098969459533696,
+            48.857247000551425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Quai François Mauriac, devant BNF",
+        "description": "Piste bidirectionnelle conforme au cahier des charges du REVe."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.379677295684815,
+            48.832227531511286
+          ],
+          [
+            2.378647327423096,
+            48.833025579689036
+          ],
+          [
+            2.377322316169739,
+            48.8340955092908
+          ],
+          [
+            2.3753643035888676,
+            48.83565269273333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Bd St-Michel (nord)",
+        "description": "Aménagement non conforme au cahier des charges du REV (voie de bus de substitution)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3410534858703613,
+            48.84767421421626
+          ],
+          [
+            2.3421692848205566,
+            48.84958044593268
+          ],
+          [
+            2.3426413536071777,
+            48.85032879854689
+          ],
+          [
+            2.3431777954101562,
+            48.85135953006185
+          ],
+          [
+            2.3437142372131348,
+            48.85248907447689
+          ],
+          [
+            2.34433650970459,
+            48.8538303753715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue de Turbigo (2e)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.346310615539551,
+            48.863246707697
+          ],
+          [
+            2.3514175415039062,
+            48.86437598390834
+          ]
+        ]
+      }
+    }
+  ]
+}
