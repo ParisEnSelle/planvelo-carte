@@ -253,7 +253,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "description": "Porte Molitor"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -290,7 +295,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "description": "Porte Molitor"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
