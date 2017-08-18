@@ -303,6 +303,33 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue Buffon",
+        "description": "Bande cyclable en contresens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3559987545013428,
+            48.841178361227065
+          ],
+          [
+            2.3639219999313354,
+            48.8432225275578
+          ],
+          [
+            2.3641741275787354,
+            48.84319781447345
+          ]
+        ]
+      }
     }
   ]
 }
