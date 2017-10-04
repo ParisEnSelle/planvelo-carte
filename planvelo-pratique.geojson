@@ -416,6 +416,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Voltaire",
+        "description": "Pistes unidirectionelles de chaque côté de la chaussée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.365177273750305,
+            48.86670856440179
+          ],
+          [
+            2.3677361011505127,
+            48.86518763544576
+          ]
+        ]
+      }
     }
   ]
 }
