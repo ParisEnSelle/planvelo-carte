@@ -1265,33 +1265,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quai Louis Blériot"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.274384498596192,
-            48.84713763220042
-          ],
-          [
-            2.2673034667968754,
-            48.83980847596173
-          ],
-          [
-            2.2659301757812504,
-            48.83836793764065
-          ],
-          [
-            2.2639775276184086,
-            48.83661663917981
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Route d'Auteuil aux Lacs"
       },
       "geometry": {
