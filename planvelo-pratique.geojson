@@ -337,7 +337,8 @@
         "stroke": "#228b22",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "description": "Piste cyclable du Réseau Express Vélo reliant Boulogne à Paris"
+        "description": "Piste cyclable du Réseau Express Vélo reliant Boulogne à Paris",
+        "name": "Boulogne - Concorde"
       },
       "geometry": {
         "type": "LineString",
