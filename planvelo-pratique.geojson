@@ -440,6 +440,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Avenue de la Grande-Armée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.294179201126098,
+            48.87412199007619
+          ],
+          [
+            2.2841155529022217,
+            48.87733260460296
+          ]
+        ]
+      }
     }
   ]
 }
