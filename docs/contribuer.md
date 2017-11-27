@@ -23,7 +23,7 @@ Voici une documentation pour les non-initiés à `Git`.
 * Résultat:
 ![Forker - Résultat](assets/contribuer_PR_1.png)
 
-* Se rendre sur l'éditeur de carte [geojson.io](http://geojson.io).
+* Se rendre sur l'éditeur de carte [editor.planvelo.paris](http://editor.planvelo.paris).
 
 * Se connecter avec le lien "login" en haut à droite. ![Se connecter](assets/contribuer_editor-authorize_0.png)
 
@@ -60,7 +60,7 @@ Voici une documentation pour les non-initiés à `Git`.
 
 * Demander un accès en écriture sur ce projet aux personnes concernées.
 
-* Se rendre sur l'éditeur de carte [geojson.io](http://geojson.io).
+* Se rendre sur l'éditeur de carte [editor.planvelo.paris](http://editor.planvelo.paris).
 
 * Se connecter avec le lien "login" en haut à droite. ![Se connecter](assets/contribuer_editor-authorize_0.png)
 

@@ -6,13 +6,13 @@
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-theorie.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-theorie.geojson)
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-theorie.geojson)
 
 `planvelo-pratique.geojson`: Projets réalisés dans le plan vélo, à mettre à jour à chaque nouvelle réalisation.
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-pratique.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-pratique.geojson)
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-pratique.geojson)
 
 ## Projets hors plan vélo
 
@@ -20,7 +20,7 @@
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/hors-planvelo.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/hors-planvelo.geojson)
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/hors-planvelo.geojson)
 
 ## Zones de circulation apaisée
 
@@ -30,7 +30,7 @@ Fork du dataset originalement issu de [opendata.paris.fr](https://opendata.paris
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson)
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson)
 
 
 ## Réseau structurant
@@ -39,4 +39,4 @@ Fork du dataset originalement issu de [opendata.paris.fr](https://opendata.paris
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/reseau-structurant.geojson"></script>
 
-[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/reseau-structurant.geojson)
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/reseau-structurant.geojson)
