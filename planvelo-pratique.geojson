@@ -192,7 +192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#228b22",
+        "stroke": "#ffa500",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Tour Maubourg",
@@ -459,6 +459,29 @@
           [
             2.2841155529022217,
             48.87733260460296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Franklin D. Roosevelt",
+        "description": "Sens Nord-Sud : couloir de bus élargi et ouvert aux vélos."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3101115226745605,
+            48.868785210612025
+          ],
+          [
+            2.310301959514618,
+            48.86491414563735
           ]
         ]
       }
