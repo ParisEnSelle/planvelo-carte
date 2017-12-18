@@ -501,6 +501,33 @@
           48.82102879822481
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue La Fayette",
+        "description": "Couloirs de bus ou bandes cyclables non protégées"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3619961738586426,
+            48.88062062479337
+          ],
+          [
+            2.3657941818237305,
+            48.88162251072715
+          ],
+          [
+            2.3698067665100098,
+            48.882694929769414
+          ]
+        ]
+      }
     }
   ]
 }
