@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffa500",
+        "stroke": "#228b22",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Avenue de la Porte d'Ivry",
@@ -483,6 +483,22 @@
             2.310301959514618,
             48.86491414563735
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Interruption de la piste cyclable qui oblige les cyclistes à poursuivre sur le trottoir ou au milieu des bus et du trafic : https://goo.gl/maps/moVyYUgBVNy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3702895641326904,
+          48.82102879822481
         ]
       }
     }
