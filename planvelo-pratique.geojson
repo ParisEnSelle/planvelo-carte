@@ -528,6 +528,37 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Boulevard Barbès",
+        "description": "Pistes latérales sur trottoir. Mauvaise séparation avec les piétons."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.349486351013183,
+            48.883915483988616
+          ],
+          [
+            2.349550724029541,
+            48.886554036967766
+          ],
+          [
+            2.3495829105377197,
+            48.88836002505795
+          ],
+          [
+            2.3495936393737793,
+            48.89157677977622
+          ]
+        ]
+      }
     }
   ]
 }
