@@ -492,7 +492,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "description": "Interruption de la piste cyclable qui oblige les cyclistes à poursuivre sur le trottoir ou au milieu des bus et du trafic : https://goo.gl/maps/moVyYUgBVNy"
+        "description": "Interruption de la piste cyclable qui oblige les cyclistes à poursuivre sur le trottoir ou au milieu des bus et du trafic."
       },
       "geometry": {
         "type": "Point",
