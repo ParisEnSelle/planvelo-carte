@@ -673,28 +673,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 8,
-        "stroke-opacity": 0,
-        "name": "Daumesnil : Bizot -Pte Dorée"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.406660318374634,
-            48.83551498458392
-          ],
-          [
-            2.4034738540649414,
-            48.83671550443323
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ffa500",
         "stroke-width": 8,
         "stroke-opacity": 1,
@@ -733,36 +711,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 8,
-        "stroke-opacity": 0,
-        "name": "Daumesnil : Charenton - F.Eboué"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3951268196105957,
-            48.83977316914519
-          ],
-          [
-            2.389000654220581,
-            48.84111481067753
-          ],
-          [
-            2.3874986171722408,
-            48.84149611276527
-          ],
-          [
-            2.3866724967956543,
-            48.84183504551739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#ffa500",
         "stroke-width": 8,
         "stroke-opacity": 1,
@@ -778,36 +726,6 @@
           [
             2.3773813247680664,
             48.84628332528444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 8,
-        "stroke-opacity": 0,
-        "name": "Daumesnil : Lyon - Diderot"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.377338409423828,
-            48.846304506623845
-          ],
-          [
-            2.3725426197052,
-            48.84862027902757
-          ],
-          [
-            2.3712873458862305,
-            48.84926274568608
-          ],
-          [
-            2.370750904083252,
-            48.849672225628616
           ]
         ]
       }
