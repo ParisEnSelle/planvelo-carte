@@ -20,7 +20,7 @@
         "stroke": "#ffa500",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "name": "Bastille - Vincennes"
+        "name": "Av. Daumesnil (bois de Vincennes)"
       },
       "geometry": {
         "type": "LineString",
@@ -249,7 +249,7 @@
         "stroke": "#228b22",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "name": "Châtelet - Aubervilliers"
+        "name": "rue d'Aubervilliers"
       },
       "geometry": {
         "type": "LineString",
@@ -283,7 +283,7 @@
         "stroke": "#ffa500",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "name": "Arc de Triomphe - Bois de Boulogne"
+        "name": "Allée de Longchamps - Bois de Boulogne"
       },
       "geometry": {
         "type": "LineString",
@@ -365,7 +365,7 @@
         "stroke": "#ffa500",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "name": "Concorde - Bourdon"
+        "name": "Quai des Célestins - Bd. Morland"
       },
       "geometry": {
         "type": "LineString",
@@ -467,7 +467,7 @@
         "stroke": "#228b22",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "name": "Boulogne - Concorde"
+        "name": "Cours la Reine"
       },
       "geometry": {
         "type": "LineString",
@@ -601,7 +601,8 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Mail des Minimes"
       },
       "geometry": {
         "type": "LineString",
@@ -650,7 +651,8 @@
       "properties": {
         "stroke": "#ffa500",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "avenue de Nogent"
       },
       "geometry": {
         "type": "LineString",
