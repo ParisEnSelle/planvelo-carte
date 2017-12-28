@@ -674,8 +674,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ff0000",
-        "stroke-width": 0,
-        "stroke-opacity": 1,
+        "stroke-width": 8,
+        "stroke-opacity": 0,
         "name": "Daumesnil : Bizot -Pte Dorée"
       },
       "geometry": {
@@ -734,8 +734,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ff0000",
-        "stroke-width": 0,
-        "stroke-opacity": 1,
+        "stroke-width": 8,
+        "stroke-opacity": 0,
         "name": "Daumesnil : Charenton - F.Eboué"
       },
       "geometry": {
@@ -786,8 +786,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ff0000",
-        "stroke-width": 0,
-        "stroke-opacity": 1,
+        "stroke-width": 8,
+        "stroke-opacity": 0,
         "name": "Daumesnil : Lyon - Diderot"
       },
       "geometry": {
