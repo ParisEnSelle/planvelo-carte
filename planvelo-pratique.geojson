@@ -833,6 +833,38 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Absence d'accès à la piste sur la Voie Georges Pompidou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.271895408630371,
+          48.8445393642718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Conflits vélos-piétons (piste sur trottoir)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353670597076416,
+          48.87880024547142
+        ]
+      }
     }
   ]
 }
