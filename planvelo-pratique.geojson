@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Boulevard Arago"
       },
@@ -286,7 +286,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228a22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue de Turbigo (2e)"
       },
@@ -666,6 +666,170 @@
           [
             2.3157763481140137,
             48.87530041538762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Route de la Muette à Neuilly",
+        "description": "Aucun aménagement finalement projeté (Paris à Vélo - 2017)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.258462905883789,
+            48.880239620649995
+          ],
+          [
+            2.2590208053588867,
+            48.87919537219401
+          ],
+          [
+            2.2598791122436523,
+            48.8774455015832
+          ],
+          [
+            2.260823249816894,
+            48.876570543321755
+          ],
+          [
+            2.262239456176758,
+            48.87580847043109
+          ],
+          [
+            2.2632694244384766,
+            48.87501816035615
+          ],
+          [
+            2.2641706466674805,
+            48.873832671833505
+          ],
+          [
+            2.264385223388672,
+            48.8725624743853
+          ],
+          [
+            2.264256477355957,
+            48.87109465050329
+          ],
+          [
+            2.2645139694213867,
+            48.86979615501914
+          ],
+          [
+            2.265329360961914,
+            48.86846939656666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue de Belleville",
+        "description": "Aucun aménagement projeté (Paris à Vélo 2017)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.385320663452148,
+            48.873860898077155
+          ],
+          [
+            2.3868227005004883,
+            48.87465122643438
+          ],
+          [
+            2.388453483581543,
+            48.87476412946618
+          ],
+          [
+            2.389998435974121,
+            48.8754133169543
+          ],
+          [
+            2.391629219055176,
+            48.87552621826616
+          ],
+          [
+            2.394332885742187,
+            48.87535686620279
+          ],
+          [
+            2.395534515380859,
+            48.87527218995613
+          ],
+          [
+            2.397937774658203,
+            48.87546976764207
+          ],
+          [
+            2.399139404296875,
+            48.87558266882655
+          ],
+          [
+            2.4025726318359375,
+            48.876034271016415
+          ],
+          [
+            2.4065208435058594,
+            48.87721970736794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "route de Mortemart",
+        "description": "Aucun aménagement projeté (Paris à Vélo 2017)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4544572830200195,
+            48.827011655849155
+          ],
+          [
+            2.4610233306884766,
+            48.829865093147525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue Beaubourg",
+        "description": "Couloir de bus protégé (non modifié)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3514604568481445,
+            48.85745876716474
+          ],
+          [
+            2.3556876182556152,
+            48.8653217331283
           ]
         ]
       }
