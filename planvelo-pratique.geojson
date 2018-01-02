@@ -856,13 +856,529 @@
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
-        "description": "Conflits vélos-piétons (piste sur trottoir)"
+        "description": "Conflits vélos-piétons (piste sur trottoir). Carrefour dangereux"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.353670597076416,
           48.87880024547142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue St Jacques (nord)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3455488681793213,
+            48.85085122676113
+          ],
+          [
+            2.346782684326172,
+            48.853060896621066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Île de la Cité (REV Nord-SUd)",
+        "description": "Aucun aménagement sécurisé projeté"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3443472385406494,
+            48.8538303753715
+          ],
+          [
+            2.345784902572632,
+            48.85518575871848
+          ],
+          [
+            2.3463428020477295,
+            48.85596932297638
+          ],
+          [
+            2.347104549407959,
+            48.85721170602874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue St Jacques (sud)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3433709144592285,
+            48.84681285608177
+          ],
+          [
+            2.3420190811157227,
+            48.844369907332904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Bd. de l'Hôpital",
+        "description": "Projet abandonné"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.35581636428833,
+            48.83184262762493
+          ],
+          [
+            2.3606443405151367,
+            48.83845973788721
+          ],
+          [
+            2.36181378364563,
+            48.84000619367437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Quai de la Rapée",
+        "description": "Aucun aménagement prévu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3703432083129883,
+            48.843176631820015
+          ],
+          [
+            2.3726606369018555,
+            48.841517296129474
+          ],
+          [
+            2.3756754398345947,
+            48.838841060187484
+          ],
+          [
+            2.3756754398345947,
+            48.83870689156099
+          ],
+          [
+            2.37579345703125,
+            48.83858684564318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue Rapp",
+        "description": "Aucun aménagement nouveau ou projeté"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3001551628112793,
+            48.85768465056482
+          ],
+          [
+            2.3014211654663086,
+            48.86184919310697
+          ],
+          [
+            2.3015284538269043,
+            48.86225857010897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Bd. St Germain",
+        "description": "Aucun aménagement nouveau ou projeté"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.319660186767578,
+            48.862173871693635
+          ],
+          [
+            2.324380874633789,
+            48.85714817582527
+          ],
+          [
+            2.325410842895508,
+            48.8563858070944
+          ],
+          [
+            2.3270845413208003,
+            48.855482243934105
+          ],
+          [
+            2.32785701751709,
+            48.85522811385678
+          ],
+          [
+            2.3343372344970703,
+            48.85356211806738
+          ],
+          [
+            2.349014282226562,
+            48.85000404312576
+          ],
+          [
+            2.3505163192749023,
+            48.84963692576547
+          ],
+          [
+            2.356696128845215,
+            48.84941100605201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Bd. St Michel (sud)",
+        "description": "REV Nord-Sud. Aucun aménagement sécurisé prévu."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3410534858703613,
+            48.84766715396391
+          ],
+          [
+            2.340538501739502,
+            48.846777554202816
+          ],
+          [
+            2.3372769355773926,
+            48.84087473009598
+          ],
+          [
+            2.3368477821350098,
+            48.840090929598006
+          ],
+          [
+            2.3367083072662354,
+            48.83942716102615
+          ],
+          [
+            2.3366546630859375,
+            48.83875632214941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quai de Bercy",
+        "description": "Revêtement très irrégulier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385792732238769,
+          48.83026060628703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Rue de Lyon - Av. Daumesnil"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.369356155395508,
+            48.85279969472351
+          ],
+          [
+            2.369828224182129,
+            48.8514724856501
+          ],
+          [
+            2.3705148696899414,
+            48.84993344384244
+          ],
+          [
+            2.3711800575256343,
+            48.84931216585684
+          ],
+          [
+            2.3725318908691406,
+            48.848606158788655
+          ],
+          [
+            2.3773813247680664,
+            48.84627626483598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Avenue Daumesnil",
+        "description": "Couloirs de bus non protégés"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.386629581451416,
+            48.841870350880505
+          ],
+          [
+            2.387402057647705,
+            48.841531418367275
+          ],
+          [
+            2.3888611793518066,
+            48.841121871853694
+          ],
+          [
+            2.394847869873047,
+            48.83983672139703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Avenue Daumesnil",
+        "description": "Aucun aménagement prévu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.403430938720703,
+            48.83671550443323
+          ],
+          [
+            2.406156063079834,
+            48.83571271924408
+          ],
+          [
+            2.406477928161621,
+            48.83541611696116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue d'Iéna",
+        "description": "Aucun aménagement prévu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2951340675354004,
+            48.873169350522595
+          ],
+          [
+            2.295498847961426,
+            48.87116521994458
+          ],
+          [
+            2.295713424682617,
+            48.86951386893293
+          ],
+          [
+            2.295691967010498,
+            48.86790480783149
+          ],
+          [
+            2.295370101928711,
+            48.86731198280353
+          ],
+          [
+            2.2942113876342773,
+            48.865208808787926
+          ],
+          [
+            2.2939860820770264,
+            48.864877092064475
+          ],
+          [
+            2.2920119762420654,
+            48.862929094171356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue du Bac (sud)",
+        "description": "Aucun aménagement prévu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3259365558624268,
+            48.85613168160397
+          ],
+          [
+            2.3274922370910645,
+            48.85698582049449
+          ],
+          [
+            2.3279643058776855,
+            48.85771288591816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Quais du Louvre - Mégisserie - Gesvres",
+        "description": "REV Rive Droite - Aucun aménagement prévu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.330646514892578,
+            48.860698684638336
+          ],
+          [
+            2.3333287239074707,
+            48.86011989123816
+          ],
+          [
+            2.336547374725342,
+            48.85937874357536
+          ],
+          [
+            2.3371589183807373,
+            48.85934345055576
+          ],
+          [
+            2.3386287689208984,
+            48.859174043715356
+          ],
+          [
+            2.339862585067749,
+            48.85899051899125
+          ],
+          [
+            2.341611385345459,
+            48.85866581975403
+          ],
+          [
+            2.3425018787384033,
+            48.85847523443817
+          ],
+          [
+            2.3459136486053467,
+            48.85755759127768
+          ],
+          [
+            2.346900701522827,
+            48.85730347173589
+          ],
+          [
+            2.347104549407959,
+            48.85721170602874
+          ],
+          [
+            2.3473405838012695,
+            48.85720464712123
+          ],
+          [
+            2.348928451538086,
+            48.85673169805004
+          ],
+          [
+            2.351975440979004,
+            48.85559519022104
+          ],
+          [
+            2.3526298999786377,
+            48.85536929739234
+          ]
         ]
       }
     }
