@@ -1159,7 +1159,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Quai de Bercy",
-        "description": "Revêtement très irrégulier"
+        "description": "Revêtement très irrégulier. Absence de séparateur au croisement avec Terroirs de France"
       },
       "geometry": {
         "type": "Point",
@@ -1482,6 +1482,56 @@
             2.3713839054107666,
             48.89573144832972
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rue d'Aubervilliers, croisement rue Riquet",
+        "description": "Passage de la piste sur trottoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3681116104125977,
+          48.88984145096474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Séparateurs entre la piste et la rue trop bas (franchissable par les véhicules motorisés)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.290161252021789,
+          48.875420373293736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quai de Bercy / Pont National",
+        "description": "Absence de connexion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387954592704773,
+          48.82821591096191
         ]
       }
     }
