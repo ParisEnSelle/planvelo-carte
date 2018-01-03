@@ -1502,6 +1502,24 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Connexion Turbigo - Etienne Marcel",
+        "description": "Présence d'une bordure entravant la trajectoire naturelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349205,
+          48.863859
+        ]
+      }
+    },
+    
     {
       "type": "Feature",
       "properties": {
