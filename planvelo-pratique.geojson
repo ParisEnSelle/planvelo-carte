@@ -840,7 +840,8 @@
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
-        "description": "Absence d'accès à la piste sur la Voie Georges Pompidou"
+        "description": "Absence d'accès à la piste sur la Voie Georges Pompidou au niveau de le rue Wilhem",
+        "name": "Voie Georges Pompidou"
       },
       "geometry": {
         "type": "Point",
@@ -1502,7 +1503,7 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#7E7E7E",
@@ -1516,23 +1517,6 @@
         "coordinates": [
           2.349205,
           48.863859
-        ]
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7E7E7E",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "description": "Séparateurs entre la piste et la rue trop bas (franchissable par les véhicules motorisés)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.290161252021789,
-          48.875420373293736
         ]
       }
     },
