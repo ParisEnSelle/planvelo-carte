@@ -840,7 +840,7 @@
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
-        "description": "Absence d'accès à la piste sur la Voie Georges Pompidou au niveau de le rue Wilhem",
+        "description": "Accès rares (seulement trois entrées-sorties) et de qualité contestable, rendant la voie bénéfique pour peu d'usagers",
         "name": "Voie Georges Pompidou"
       },
       "geometry": {
@@ -1509,8 +1509,8 @@
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Connexion Turbigo - Etienne Marcel",
-        "description": "Présence d'une bordure entravant la trajectoire naturelle"
+        "name": "Connexion Turbigo – Étienne Marcel",
+        "description": "Aménagement incompréhensible pour les usagers et présence d'une bordure sur le chemin emprunté par incompréhension"
       },
       "geometry": {
         "type": "Point",
