@@ -1,4 +1,4 @@
-# Les cartes de l'observatoire
+# Les calques de l'observatoire
 
 ## Projets du plan vélo
 
@@ -13,6 +13,12 @@
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-pratique.geojson"></script>
 
 [Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-pratique.geojson)
+
+`planvelo-anterieur.geojson`: Aménagements réalisés avant le Plan Vélo 2015-2020.
+
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-anterieur.geojson"></script>
+
+[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-anterieur.geojson)
 
 ## Projets hors plan vélo
 
@@ -31,12 +37,3 @@ Fork du dataset originalement issu de [opendata.paris.fr](https://opendata.paris
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson"></script>
 
 [Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/opendata.paris.fr/zones-de-circulation-apaisee_PeS.geojson)
-
-
-## Réseau structurant
-
-`reseau-structurant.geojson`: Infrastructures cyclables faisant partie du "réseau structurant"
-
-<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/reseau-structurant.geojson"></script>
-
-[Editer la carte](http://editor.planvelo.paris/#id=github:parisenselle/planvelo-carte/blob/master/reseau-structurant.geojson)

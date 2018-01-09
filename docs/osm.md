@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 * Lancer la commande `python extract.py`.
 
-## Les cartes
+## Les calques
 
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/osm/bus.geojson"></script>
 

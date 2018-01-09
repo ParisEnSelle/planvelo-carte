@@ -32,12 +32,12 @@ Voici une documentation pour les non-initiés à `Git`.
 * Une fois connecté, vous devriez avoir un écran similaire à celui-ci.
 ![Autoriser](assets/contribuer_editor-authorize_2.png)
 
-* Ouvrir la carte à éditer. Open > Github > `la-carte-à-éditer.geojson`.
+* Ouvrir le calque à éditer. Open > Github > `la-carte-à-éditer.geojson`.
 ![Ouvrir](assets/contribuer_PR_2.png)
 
 * Faire la modifications
 
-* Enregistrer la carte. Save > Github > `la-carte-à-éditer.geojson` à écraser
+* Enregistrer le calque. Save > Github > `la-carte-à-éditer.geojson` à écraser
 ![Enregistrer](assets/contribuer_PR_3.png)
 
 * Taper un message décrivant la modification réalisée et valider. ![Message de commit](assets/contribuer_3.png)
@@ -69,7 +69,7 @@ Voici une documentation pour les non-initiés à `Git`.
 * Une fois connecté, vous devriez avoir un écran similaire à celui-ci.
 ![Autoriser](assets/contribuer_editor-authorize_2.png)
 
-* Ouvrir la carte. Menu "Open > Github". Dans l'arborescence, cliquer sur `la-carte-à-éditer.geojson` ![Ouvrir](assets/contribuer_2.png)
+* Ouvrir le calque. Menu "Open > Github". Dans l'arborescence, cliquer sur `la-carte-à-éditer.geojson` ![Ouvrir](assets/contribuer_2.png)
 
 * Une fois les modifications effectuées, ouvrir le menu "Save > Github". Sélectionner le fichier à écraser (`la-carte-à-éditer.geojson`). ![Enregistrer](assets/contribuer_2.png)
 
