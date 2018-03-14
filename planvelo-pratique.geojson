@@ -1524,6 +1524,33 @@
           48.82821591096191
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "description": "Premier tronçon du REV sur Rivoli",
+        "name": "Rue de Rivoli - St Paul - Hôtel de Ville"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3538100719451904,
+            48.85691523105601
+          ],
+          [
+            2.3565995693206787,
+            48.856265803551345
+          ],
+          [
+            2.360086441040039,
+            48.85544694816719
+          ]
+        ]
+      }
     }
   ]
 }
