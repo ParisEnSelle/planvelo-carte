@@ -1551,6 +1551,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Av. Franklin Roosevelt (nord)",
+        "description": "Contre-sens cyclable protégé"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3100900650024414,
+            48.869697355070116
+          ],
+          [
+            2.3100256919860835,
+            48.873112897238954
+          ]
+        ]
+      }
     }
   ]
 }
