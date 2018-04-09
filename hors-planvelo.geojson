@@ -453,7 +453,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de la Porte de Montrouge"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
