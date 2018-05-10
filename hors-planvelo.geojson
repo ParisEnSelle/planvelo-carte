@@ -415,7 +415,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Avenue Georges Lafenestre"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1160,6 +1165,29 @@
           [
             2.3178577423095703,
             48.83723807467427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue Georges Lafenestre",
+        "description": "piste cyclable sur chaussée dans les deux sens, separée par stationnement"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.308475375175476,
+            48.82368832665863
+          ],
+          [
+            2.311152219772339,
+            48.82508690650208
           ]
         ]
       }
