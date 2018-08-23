@@ -840,23 +840,6 @@
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
-        "description": "Accès rares (seulement trois entrées-sorties) et de qualité contestable, rendant la voie bénéfique pour peu d'usagers",
-        "name": "Voie Georges Pompidou"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.271895408630371,
-          48.8445393642718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7E7E7E",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "description": "Conflits vélos-piétons (piste sur trottoir). Carrefour dangereux"
       },
       "geometry": {
