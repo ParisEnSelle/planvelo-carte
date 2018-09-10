@@ -1698,6 +1698,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Station Autolib'",
+        "description": "La piste cyclable est déviée pour éviter une station Autolib et perd ainsi temporairement le muret qui sépare les cyclistes du trafic motorisé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377445697784424,
+          48.859394625426035
+        ]
+      }
     }
   ]
 }
