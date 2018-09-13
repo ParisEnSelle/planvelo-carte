@@ -1217,23 +1217,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Station Autolib'",
-        "description": "Une station Autolib' entrave le cheminement des cyclistes sur la piste cyclable"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3139122128486633,
-          48.834575734289714
-        ]
-      }
     }
   ]
 }
