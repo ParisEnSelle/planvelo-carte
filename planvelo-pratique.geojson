@@ -1518,8 +1518,8 @@
         "stroke": "#228b22",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "description": "Premier tronçon du REV sur Rivoli",
-        "name": "Rue de Rivoli - St Paul - Hôtel de Ville"
+        "description": "Tronçon du REV Saint-Paul Sébastopol",
+        "name": "Rue de Rivoli"
       },
       "geometry": {
         "type": "LineString",
