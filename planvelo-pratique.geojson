@@ -1746,6 +1746,60 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue Froidevaux"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.323012948036194,
+            48.83753466616981
+          ],
+          [
+            2.3231953382492065,
+            48.837509950278914
+          ],
+          [
+            2.3276478052139282,
+            48.83601991261437
+          ],
+          [
+            2.329123020172119,
+            48.83543730289676
+          ],
+          [
+            2.32934832572937,
+            48.83541611696116
+          ],
+          [
+            2.331268787384033,
+            48.83473816229164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Chantier non terminé pour le moment sur 100m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3284685611724854,
+          48.83568976793963
+        ]
+      }
     }
   ]
 }
