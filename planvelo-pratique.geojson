@@ -1800,6 +1800,37 @@
           48.83568976793963
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Boulevard Voltaire",
+        "description": "Pistes unidirectionelles de chaque côté de la chaussée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.392549216747284,
+            48.85038174760064
+          ],
+          [
+            2.3936811089515686,
+            48.849711055449326
+          ],
+          [
+            2.3948156833648677,
+            48.84904211932886
+          ],
+          [
+            2.395239472389221,
+            48.84880913684032
+          ]
+        ]
+      }
     }
   ]
 }
