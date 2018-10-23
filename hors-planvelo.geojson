@@ -1226,6 +1226,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue de Crimée",
+        "description": "Piste cyclable à contre-sens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.382305860519409,
+            48.88585208258796
+          ],
+          [
+            2.3841995000839233,
+            48.88415888574725
+          ]
+        ]
+      }
     }
   ]
 }
