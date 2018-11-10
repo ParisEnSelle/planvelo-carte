@@ -1663,7 +1663,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Boulevard Ney",
-        "description": "Piste sur trottoir avec nombreux passages en bande cyclable. Fortes discontinuités"
+        "description": "Piste entrecoupée par de nombreux passages en bande cyclable"
       },
       "geometry": {
         "type": "LineString",
