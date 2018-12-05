@@ -1812,22 +1812,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "description": "Chantier non terminé pour le moment sur 100m"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3284685611724854,
-          48.83568976793963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#228b22",
         "stroke-width": 4,
         "stroke-opacity": 1,
