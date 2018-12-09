@@ -1603,8 +1603,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.372725009918213,
-            48.83835381451083
+            2.373604774475097,
+            48.83761940627458
+          ],
+          [
+            2.3726820945739746,
+            48.83843855322985
           ],
           [
             2.369656562805176,
@@ -1941,6 +1945,29 @@
           [
             2.301335334777832,
             48.888860893013764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de Flandres",
+        "description": "Pistes unidirectionnelles de chaque côté du terre-plein central"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3690664768218994,
+            48.88441639646313
+          ],
+          [
+            2.3706972599029537,
+            48.88574978690599
           ]
         ]
       }
