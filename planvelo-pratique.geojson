@@ -1971,6 +1971,33 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Porte de St Ouen",
+        "description": "Pistes et bandes unidirectionnelles"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.328972816467285,
+            48.89758647745289
+          ],
+          [
+            2.3294663429260254,
+            48.89903941796735
+          ],
+          [
+            2.329949140548706,
+            48.90046410503376
+          ]
+        ]
+      }
     }
   ]
 }
