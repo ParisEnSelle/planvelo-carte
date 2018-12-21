@@ -1998,6 +1998,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Station essence 137 boulevard Voltaire",
+        "description": "Le séparateur de la piste cyclable est interrompu pour une station essence, dans le sens Nation - Voltaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3835316300392146,
+          48.85582284680618
+        ]
+      }
     }
   ]
 }
