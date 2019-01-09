@@ -97,6 +97,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de la Bourdonnais"
       },
       "geometry": {
@@ -210,6 +213,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de Lowendal"
       },
       "geometry": {
