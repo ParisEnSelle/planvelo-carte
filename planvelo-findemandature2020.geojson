@@ -2165,6 +2165,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0080ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue du Faubourg Saint Antoine"
       },
       "geometry": {
@@ -3037,7 +3040,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0080ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Arc de Triomphe"
@@ -3059,7 +3062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0080ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Arc de Triomphe - Bois de Boulogne"
@@ -3109,7 +3112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0080ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Bastille"
