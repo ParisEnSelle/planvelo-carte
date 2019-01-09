@@ -50,6 +50,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Boulevard Arago"
       },
       "geometry": {
@@ -73,6 +76,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Place d'Italie"
       },
       "geometry": {
@@ -142,6 +148,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de Flandres"
       },
       "geometry": {
@@ -230,6 +239,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de la Porte de Clichy"
       },
       "geometry": {
@@ -249,6 +261,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de la Porte de Saint-Ouen"
       },
       "geometry": {
@@ -353,6 +368,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue de Saint-Ouen sud"
       },
       "geometry": {
@@ -721,6 +739,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Avenue Roosevelt"
       },
       "geometry": {
@@ -864,6 +885,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Boulevard Magenta"
       },
       "geometry": {
@@ -887,6 +911,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Boulevard Voltaire"
       },
       "geometry": {
@@ -997,6 +1024,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Denfert-Rochereau - Place de Catalogne"
       },
       "geometry": {
@@ -1027,20 +1057,16 @@
             48.836051691131374
           ],
           [
-            2.329187393188477,
-            48.835373745063116
+            2.3291444778442383,
+            48.83543730289676
           ],
           [
-            2.331290245056153,
+            2.3293697834014893,
+            48.83541611696116
+          ],
+          [
+            2.331322431564331,
             48.83472403813848
-          ],
-          [
-            2.33236312866211,
-            48.834385057267646
-          ],
-          [
-            2.333307266235352,
-            48.83410257145647
           ]
         ]
       }
@@ -1103,6 +1129,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Picpus - Reuilly"
       },
       "geometry": {
@@ -1130,62 +1159,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Porte Maillot - Porte de la Chapelle "
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.284147739410401,
-            48.877304380318094
-          ],
-          [
-            2.284319400787354,
-            48.877544286231874
-          ],
-          [
-            2.284040451049805,
-            48.87767129477924
-          ],
-          [
-            2.28416919708252,
-            48.87793942287579
-          ],
-          [
-            2.284018993377686,
-            48.87799587071297
-          ],
-          [
-            2.284319400787354,
-            48.878475674757134
-          ],
-          [
-            2.2859287261962895,
-            48.88207405838981
-          ],
-          [
-            2.2947692871093754,
-            48.88746409380663
-          ],
-          [
-            2.295799255371094,
-            48.886448215330205
-          ],
-          [
-            2.2975587844848637,
-            48.88702670421481
-          ],
-          [
-            2.2978162765502934,
-            48.88695615714816
-          ],
-          [
-            2.2980093955993657,
-            48.88708314179646
-          ],
-          [
-            2.298674583435059,
-            48.88754874941472
+            2.303942441940307,
+            48.88989788536949
           ],
           [
             2.3071289062500004,
@@ -1605,6 +1589,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Route de la Pyramide"
       },
       "geometry": {
@@ -1791,6 +1778,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Bobillot"
       },
       "geometry": {
@@ -1869,6 +1859,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Buffon"
       },
       "geometry": {
@@ -2165,6 +2158,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue du Faubourg Saint Antoine"
       },
       "geometry": {
@@ -2231,6 +2227,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue La Fayette nord-est"
       },
       "geometry": {
@@ -2269,6 +2268,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Lecourbe"
       },
       "geometry": {
@@ -2344,6 +2346,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Marcadet"
       },
       "geometry": {
@@ -2391,6 +2396,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Montmartre"
       },
       "geometry": {
@@ -2480,6 +2488,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Rue Turbigo (3e)"
       },
       "geometry": {
@@ -2543,7 +2554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Arc de Triomphe"
@@ -2776,7 +2787,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Châtelet - Aubervilliers"
@@ -3037,7 +3048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Arc de Triomphe"
@@ -3046,8 +3057,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3199176788330083,
-            48.865956927794876
+            2.3222672939300537,
+            48.86510999978109
           ],
           [
             2.2970867156982426,
@@ -3059,7 +3070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Arc de Triomphe - Bois de Boulogne"
@@ -3074,34 +3085,6 @@
           [
             2.2840511798858647,
             48.87729732424441
-          ],
-          [
-            2.2811651229858403,
-            48.8781793257439
-          ],
-          [
-            2.2809827327728276,
-            48.878338084362206
-          ],
-          [
-            2.28017270565033,
-            48.87858504121135
-          ],
-          [
-            2.280022501945496,
-            48.878662655969265
-          ],
-          [
-            2.279797196388245,
-            48.87840511562753
-          ],
-          [
-            2.27942705154419,
-            48.877830055009966
-          ],
-          [
-            2.2792553901672368,
-            48.87737494100042
           ]
         ]
       }
@@ -3109,7 +3092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Concorde - Bastille"
@@ -3118,40 +3101,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3184585571289062,
-            48.864707703953364
+            2.322937846183777,
+            48.866031033314115
           ],
           [
-            2.3190701007843018,
-            48.864771224562226
+            2.3234421014785767,
+            48.86638391523363
           ],
           [
-            2.3193383216857844,
-            48.86502530619138
-          ],
-          [
-            2.320561408996576,
-            48.866733265882715
-          ],
-          [
-            2.320770621299737,
-            48.86683207168447
-          ],
-          [
-            2.321156859397882,
-            48.86686030187766
-          ],
-          [
-            2.321929335594171,
-            48.86663445988585
-          ],
-          [
-            2.322830557823175,
-            48.86633804072483
-          ],
-          [
-            2.323801517486566,
-            48.8664297897004
+            2.3241502046585083,
+            48.866320396671775
           ],
           [
             2.3320358991622863,
@@ -3317,7 +3276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Boulogne - Alma"
@@ -3419,7 +3378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Issy"
@@ -3573,7 +3532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Ivry"
@@ -3663,7 +3622,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Porte d'Aubervilliers - Evangile"
@@ -3713,7 +3672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Daumesnil : Bastille - Diderot"
@@ -3755,7 +3714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Daumesnil : Charenton - F.Eboué"
@@ -3785,7 +3744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Daumesnil : Bizot - Soult"
