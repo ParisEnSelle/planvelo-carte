@@ -3419,7 +3419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0080ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Issy"
@@ -3573,7 +3573,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0080ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Saint-Michel - Ivry"
