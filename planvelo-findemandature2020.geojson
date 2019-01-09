@@ -145,6 +145,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0080ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Avenue de Flandres"
       },
       "geometry": {
