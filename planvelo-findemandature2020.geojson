@@ -2200,7 +2200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Quai d'Ivry"
