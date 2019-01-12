@@ -52,29 +52,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avenue de Choisy"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3566961288452153,
-            48.830246480871516
-          ],
-          [
-            2.359925508499146,
-            48.82614994234543
-          ],
-          [
-            2.3646569252014165,
-            48.820138725318955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#7980ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -112,33 +89,6 @@
           [
             2.3054552078247075,
             48.854268055255545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Avenue de la Porte Brancion"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.30139970779419,
-            48.82865028326984
-          ],
-          [
-            2.301067113876343,
-            48.82749901184431
-          ],
-          [
-            2.3002839088439946,
-            48.825867410102205
-          ],
-          [
-            2.300348281860352,
-            48.82545773552015
           ]
         ]
       }
@@ -347,41 +297,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avenue des Ternes"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.297880649566651,
-            48.877833583009384
-          ],
-          [
-            2.295702695846558,
-            48.87829927674648
-          ],
-          [
-            2.2942221164703374,
-            48.87864501626215
-          ],
-          [
-            2.285370826721192,
-            48.88068412520177
-          ],
-          [
-            2.2827851772308354,
-            48.8812838473048
-          ],
-          [
-            2.2806876897811894,
-            48.88175303664228
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Avenue du Tremblay"
       },
       "geometry": {
@@ -438,25 +353,6 @@
           [
             2.464896440505982,
             48.82585328344824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Avenue Montaigne"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3098540306091313,
-            48.86885049036166
-          ],
-          [
-            2.3019361495971684,
-            48.864742993190475
           ]
         ]
       }
@@ -1146,25 +1042,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue Claude Bernard"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3436284065246586,
-            48.8412207282153
-          ],
-          [
-            2.3506772518157963,
-            48.83845973788721
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Rue de Courcelles"
       },
       "geometry": {
@@ -1437,33 +1314,6 @@
           [
             2.3632943630218506,
             48.867340212726035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ternes - Étoile"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.2986316680908208,
-            48.878165213842315
-          ],
-          [
-            2.298320531845093,
-            48.87773479893199
-          ],
-          [
-            2.297923564910889,
-            48.87778419099506
-          ],
-          [
-            2.2960138320922856,
-            48.87512400617956
           ]
         ]
       }
@@ -2350,7 +2200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#7980ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Quai d'Ivry"
@@ -2377,6 +2227,28 @@
           [
             2.389322519302368,
             48.824772582614266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#7980ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Avenue de la Porte des Ternes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.281111478805542,
+            48.881664843493716
+          ],
+          [
+            2.2840511798858643,
+            48.88100162603443
           ]
         ]
       }
