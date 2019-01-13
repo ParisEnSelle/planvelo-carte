@@ -2094,6 +2094,44 @@
           48.823819003701075
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008e00",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.436347007751465,
+            48.84017566537832
+          ],
+          [
+            2.445058822631836,
+            48.833876581660704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jonction Pyramide Esplanade",
+        "description": "Jonction pas faite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.436389923095703,
+          48.84003443899817
+        ]
+      }
     }
   ]
 }
