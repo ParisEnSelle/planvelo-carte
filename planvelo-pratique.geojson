@@ -2154,6 +2154,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008e00",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Porte de Passy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2609734535217285,
+            48.85837641213684
+          ],
+          [
+            2.2635698318481445,
+            48.85767053288218
+          ]
+        ]
+      }
     }
   ]
 }
