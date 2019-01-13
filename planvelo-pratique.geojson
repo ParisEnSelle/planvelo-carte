@@ -2023,6 +2023,137 @@
           48.85582284680618
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008e00",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4545860290527344,
+            48.82684213960935
+          ],
+          [
+            2.4567747116088867,
+            48.82497742312446
+          ],
+          [
+            2.457761764526367,
+            48.82379074923428
+          ],
+          [
+            2.4598646163940425,
+            48.821191270144524
+          ],
+          [
+            2.4617528915405273,
+            48.81980670994938
+          ],
+          [
+            2.4623537063598633,
+            48.81907202982484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rond-point Mortemar",
+        "description": "Pas refait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4544572830200195,
+          48.82703990850004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rond-point Ferme",
+        "description": "Pas refait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4578046798706055,
+          48.823819003701075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008e00",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.436347007751465,
+            48.84017566537832
+          ],
+          [
+            2.445058822631836,
+            48.833876581660704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jonction Pyramide Esplanade",
+        "description": "Jonction pas faite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.436389923095703,
+          48.84003443899817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff9300",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "description": "Neuf mais en gravier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4489641189575195,
+            48.83110812393021
+          ],
+          [
+            2.454242706298828,
+            48.82709641375401
+          ]
+        ]
+      }
     }
   ]
 }
