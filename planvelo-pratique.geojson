@@ -2132,6 +2132,28 @@
           48.84003443899817
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff9300",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "description": "Neuf mais en gravier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4489641189575195,
+            48.83110812393021
+          ],
+          [
+            2.454242706298828,
+            48.82709641375401
+          ]
+        ]
+      }
     }
   ]
 }
