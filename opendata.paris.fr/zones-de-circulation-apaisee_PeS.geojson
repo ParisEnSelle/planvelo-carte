@@ -47855,11 +47855,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "nom_zca": "Falguière"
       },
       "geometry": {
@@ -47933,11 +47928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "nom_zca": "PASTEUR"
       },
       "geometry": {
@@ -48124,14 +48114,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "nom_zca": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48215,11 +48198,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
         "nom_zca": "Butte aux Cailles"
       },
       "geometry": {
