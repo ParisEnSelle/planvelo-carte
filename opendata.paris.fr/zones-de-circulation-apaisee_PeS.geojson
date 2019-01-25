@@ -48437,8 +48437,10 @@
       "type": "Feature",
       "properties": {
         "nom_zca": "VERTBOIS",
-        "first_type_arr": "",
-        "zone": "ZONE 30"
+        "first_type_arr": "MDP",
+        "zone": "ZONE 30",
+        "source": "BMO Arrêté n° 2018 P 11503",
+        "first_date_arr": "2018-12-04"
       },
       "geometry": {
         "type": "Polygon",
