@@ -45911,7 +45911,11 @@
     {
       "type": "Feature",
       "properties": {
-        "nom_zca": ""
+        "nom_zca": "AMELOT",
+        "source": "BMO Arrêté n° 2017 P 10965",
+        "zone": "ZONE 30",
+        "first_type_arr": "MDP",
+        "first_date_arr": "2017-10-18"
       },
       "geometry": {
         "type": "Polygon",
@@ -46090,7 +46094,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nom_zca": ""
+        "nom_zca": "",
+        "first_date_arr": ""
       },
       "geometry": {
         "type": "Polygon",
