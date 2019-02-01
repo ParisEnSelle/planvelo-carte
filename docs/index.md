@@ -1,6 +1,6 @@
 # Les calques de l'observatoire
 
-## Projets du plan vélo
+## Plan Vélo
 
 `planvelo-theorie.geojson`: Projets [définis](assets/planvelo.jpeg) dans le plan vélo. La carte ne nécessite normalement plus aucune modification.
 
@@ -19,6 +19,20 @@
 <script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-anterieur.geojson"></script>
 
 [Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-anterieur.geojson)
+
+`planvelo-findemandature2020.geojson`: Avancement pressenti de la réalisation des infrastructures cyclables du Plan Vélo pour 2020
+
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-findemandature2020.geojson"></script>
+
+[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-findemandature2020.geojson)
+
+
+`planvelo-entravaux.geojson`: Aménagements du Plan Vélo 2015-2020 en travaux.
+
+<script src="https://embed.github.com/view/geojson/parisenselle/planvelo-carte/master/planvelo-entravaux.geojson"></script>
+
+[Editer la carte](http://geojson.io/#id=github:parisenselle/planvelo-carte/blob/master/planvelo-entravaux.geojson)
+
 
 ## Projets hors plan vélo
 
