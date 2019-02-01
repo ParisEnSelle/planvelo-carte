@@ -1344,7 +1344,7 @@
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Place de Skanderberg",
-        "description": "Piste bidirectionnelle circulaire (REV Nord)"
+        "description": "Piste circulaire (REV Nord)"
       },
       "geometry": {
         "type": "LineString",
@@ -1392,18 +1392,29 @@
           [
             2.3711371421813965,
             48.900231361902016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Avenue des Champs-Elysées (REV)",
+        "description": "Pistes unidirectionnelles latérales protégées"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2971296310424805,
+            48.87312701056584
           ],
           [
-            2.370895743370056,
-            48.90021020338177
-          ],
-          [
-            2.3706167936325073,
-            48.9002807317478
-          ],
-          [
-            2.3703646659851074,
-            48.900457052227516
+            2.300777435302734,
+            48.87196970453977
           ]
         ]
       }
