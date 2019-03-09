@@ -436,8 +436,8 @@
             48.86670856440179
           ],
           [
-            2.3800206184387207,
-            48.85783641540177
+            2.38527774810791,
+            48.85473396834677
           ]
         ]
       }
@@ -651,23 +651,6 @@
         "coordinates": [
           2.3681116104125977,
           48.88984145096474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7E7E7E",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Connexion Turbigo – Étienne Marcel",
-        "description": "Aménagement incompréhensible pour les usagers et présence d'une bordure sur le chemin emprunté par incompréhension"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.349205,
-          48.863859
         ]
       }
     },
@@ -1103,8 +1086,8 @@
             48.88441639646313
           ],
           [
-            2.3706972599029537,
-            48.88574978690599
+            2.3739266395568848,
+            48.88838118859422
           ]
         ]
       }
@@ -1413,8 +1396,8 @@
             48.87312701056584
           ],
           [
-            2.300777435302734,
-            48.87196970453977
+            2.309145927429199,
+            48.86928803891737
           ]
         ]
       }
