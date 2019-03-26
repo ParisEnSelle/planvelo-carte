@@ -1249,6 +1249,50 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue de Courcelles, sortant de Paris"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.295783162117004,
+            48.886529345272365
+          ],
+          [
+            2.294050455093384,
+            48.88830711617809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue De Courcelles, vers Paris"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2939270734786987,
+            48.888264789033904
+          ],
+          [
+            2.2945815324783325,
+            48.88760518640721
+          ]
+        ]
+      }
     }
   ]
 }
