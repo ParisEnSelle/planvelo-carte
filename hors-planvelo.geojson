@@ -1293,6 +1293,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue de Courcelles sur voie de bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.294742465019226,
+            48.88745880282634
+          ],
+          [
+            2.296864092350006,
+            48.88530003616665
+          ]
+        ]
+      }
     }
   ]
 }
