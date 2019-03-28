@@ -1456,7 +1456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue de Courcelle",
+        "name": "Rue de Courcelles",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "stroke": "#228b22",
@@ -1482,7 +1482,7 @@
         "stroke": "#ffa500",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Rue de Courcelle",
+        "name": "Rue de Courcelles",
         "description": "Voie de bus sens entrant, bande puis piste unidirectionnelle sens sortant"
       },
       "geometry": {
