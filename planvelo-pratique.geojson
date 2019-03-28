@@ -1452,6 +1452,52 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rue de Courcelle",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "stroke": "#228b22",
+        "description": "Pistes unidirectionnelles latérales protégées"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2939646244049072,
+            48.88830358891745
+          ],
+          [
+            2.2946298122406006,
+            48.88762635026293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue de Courcelle",
+        "description": "Voie de bus sens entrant, bande puis piste unidirectionnelle sens sortant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2947853803634644,
+            48.887467621126476
+          ],
+          [
+            2.2957348823547363,
+            48.886501126176974
+          ]
+        ]
+      }
     }
   ]
 }
