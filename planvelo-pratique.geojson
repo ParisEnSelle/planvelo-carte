@@ -1498,6 +1498,68 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Boulevard de Sébastopol",
+        "description": "REV Nord-Sud (piste bidirectionnelle protégée)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3482096195220947,
+            48.8584822931665
+          ],
+          [
+            2.34932541847229,
+            48.86053634082343
+          ],
+          [
+            2.350097894668579,
+            48.8619691832648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "rue du Chateau-Landon",
+        "description": "REV Nord-Sud. Piste bidirectionnelle protégée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3645710945129395,
+            48.884190633715384
+          ],
+          [
+            2.363262176513672,
+            48.8822857199533
+          ],
+          [
+            2.3628759384155273,
+            48.881918839340585
+          ],
+          [
+            2.363004684448242,
+            48.881805952456794
+          ],
+          [
+            2.3624467849731445,
+            48.88076173670254
+          ]
+        ]
+      }
     }
   ]
 }
