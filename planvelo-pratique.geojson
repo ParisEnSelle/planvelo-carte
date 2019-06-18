@@ -1819,6 +1819,33 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue Montmartre",
+        "description": "Piste protégée à contre-sens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3430490493774414,
+            48.87140515530032
+          ],
+          [
+            2.3426198959350586,
+            48.87024780944447
+          ],
+          [
+            2.34358549118042,
+            48.86817298827499
+          ]
+        ]
+      }
     }
   ]
 }
