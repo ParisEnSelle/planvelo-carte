@@ -1249,6 +1249,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 4,
+        "stroke": "#228b22",
+        "name": "Bd Vincent Auriol",
+        "description": "Pistes cyclables unidirectionnelles latérales sur chaussée",
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3736798763275146,
+            48.83742874083729
+          ],
+          [
+            2.3720169067382812,
+            48.83660957736853
+          ]
+        ]
+      }
     }
   ]
 }
