@@ -1514,7 +1514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#228b22",
+        "stroke": "",
         "stroke-width": 8,
         "stroke-opacity": 1,
         "name": "Boulevard de Sébastopol",
