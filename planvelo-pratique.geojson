@@ -1846,6 +1846,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "REV Quai Andre Citroen",
+        "description": "Piste bidirectionnelle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.281529903411865,
+            48.84940394604453
+          ],
+          [
+            2.27716863155365,
+            48.846274499723705
+          ]
+        ]
+      }
     }
   ]
 }
