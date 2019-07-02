@@ -289,7 +289,8 @@
         "stroke": "#228a22",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Rue de Turbigo (2e)"
+        "name": "Rue de Turbigo (2e)",
+        "description": "Piste bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -299,8 +300,8 @@
             48.863867812766614
           ],
           [
-            2.355580329895019,
-            48.86533584865294
+            2.3618459701538086,
+            48.86676149613167
           ]
         ]
       }
