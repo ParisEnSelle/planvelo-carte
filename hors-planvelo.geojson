@@ -107,7 +107,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue Riquet",
+        "description": "Piste bidirectionnelle"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -140,7 +146,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -165,7 +173,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -182,7 +192,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -235,7 +247,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -252,7 +266,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -345,7 +361,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -382,7 +400,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -441,7 +461,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -496,7 +518,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -517,7 +541,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -542,7 +568,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -699,7 +727,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
