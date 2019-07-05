@@ -1401,6 +1401,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rue de la Chaussée d'Antin",
+        "description": "Piste cyclable en contresens",
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3318588733673096,
+            48.876196564557574
+          ],
+          [
+            2.3332321643829346,
+            48.87301410383933
+          ]
+        ]
+      }
     }
   ]
 }
