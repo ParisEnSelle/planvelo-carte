@@ -1834,6 +1834,34 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rout de la Pyramide",
+        "description": "Piste bidirectionnelle en enrobé clair",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4489426612854004,
+            48.8311222491028
+          ],
+          [
+            2.4471616744995117,
+            48.83242174794613
+          ],
+          [
+            2.4452626705169678,
+            48.833629404154344
+          ]
+        ]
+      }
     }
   ]
 }
