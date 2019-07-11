@@ -1129,63 +1129,25 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.4545860290527344,
-            48.82684213960935
+            2.454419732093811,
+            48.82674678647247
           ],
           [
-            2.4567747116088867,
-            48.82497742312446
+            2.4546772241592407,
+            48.826729128464265
           ],
           [
-            2.457761764526367,
-            48.82379074923428
+            2.4566352367401123,
+            48.82491385202124
           ],
           [
-            2.4598646163940425,
-            48.821191270144524
+            2.4575579166412354,
+            48.82398146657598
           ],
           [
-            2.4617528915405273,
-            48.81980670994938
-          ],
-          [
-            2.4623537063598633,
-            48.81907202982484
+            2.4575579166412354,
+            48.82379781285247
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Rond-point Mortemar",
-        "description": "Pas refait"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4544572830200195,
-          48.82703990850004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Rond-point Ferme",
-        "description": "Pas refait"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4578046798706055,
-          48.823819003701075
         ]
       }
     },
@@ -1209,10 +1171,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff9300",
+        "stroke": "#228b22",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "description": "Neuf mais en gravier"
+        "description": "Neuf mais en gravier",
+        "name": "Route de la pyramide"
       },
       "geometry": {
         "type": "LineString",
@@ -1222,8 +1185,16 @@
             48.83110812393021
           ],
           [
-            2.454242706298828,
-            48.82709641375401
+            2.4541568756103516,
+            48.827145855798975
+          ],
+          [
+            2.4541085958480835,
+            48.826979871597885
+          ],
+          [
+            2.4542105197906494,
+            48.82681035525055
           ]
         ]
       }
@@ -1841,8 +1812,8 @@
         "stroke": "#228b22",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Rout de la Pyramide",
-        "description": "Piste bidirectionnelle en enrobé clair",
+        "name": "Route de la Pyramide",
+        "description": "Piste bidirectionnelle",
         "marker-color": ""
       },
       "geometry": {
@@ -1859,6 +1830,49 @@
           [
             2.4452626705169678,
             48.833629404154344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Route de la pyramide",
+        "description": "Piste bidirectionnelle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4622035026550293,
+            48.819057901255384
+          ],
+          [
+            2.4615597724914546,
+            48.819792581587
+          ],
+          [
+            2.460508346557617,
+            48.82055550745694
+          ],
+          [
+            2.4598217010498047,
+            48.82104999024419
+          ],
+          [
+            2.4595212936401367,
+            48.82123365403698
+          ],
+          [
+            2.4578046798706055,
+            48.823663603936595
+          ],
+          [
+            2.45767593383789,
+            48.82370598573833
           ]
         ]
       }
