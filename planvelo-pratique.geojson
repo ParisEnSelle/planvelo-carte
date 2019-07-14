@@ -1892,6 +1892,41 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "description": "Tronçon du REV Concorde Tunnel Lemonnier",
+        "name": "Rue de Rivoli"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3234903812408447,
+            48.866376857619635
+          ],
+          [
+            2.323621809482574,
+            48.866378622023205
+          ],
+          [
+            2.3237746953964233,
+            48.86636627119676
+          ],
+          [
+            2.324158251285553,
+            48.86630275261249
+          ],
+          [
+            2.3320600390434265,
+            48.86375488514547
+          ]
+        ]
+      }
     }
   ]
 }
