@@ -713,12 +713,20 @@
             48.85528458731878
           ],
           [
-            2.3645496368408203,
-            48.85409863123821
+            2.361738681793213,
+            48.855016337806894
           ],
           [
-            2.3680686950683594,
-            48.85330797824286
+            2.364656925201416,
+            48.85394332538533
+          ],
+          [
+            2.3664164543151855,
+            48.853533880372815
+          ],
+          [
+            2.3684334754943848,
+            48.85322326468132
           ]
         ]
       }
@@ -1099,23 +1107,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Station essence 137 boulevard Voltaire",
-        "description": "Le séparateur de la piste cyclable est interrompu pour une station essence, dans le sens Nation - Voltaire"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3835316300392146,
-          48.85582284680618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#008e00",
         "stroke-width": 4,
         "stroke-opacity": 1
@@ -1486,8 +1477,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3645710945129395,
-            48.884190633715384
+            2.3657727241516113,
+            48.8855310850909
+          ],
+          [
+            2.364828586578369,
+            48.884536332508354
+          ],
+          [
+            2.36456036567688,
+            48.8842188541146
           ],
           [
             2.363262176513672,
@@ -1919,6 +1918,33 @@
           [
             2.3320600390434265,
             48.86375488514547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Rue de Lyon (REV)",
+        "description": "Piste bidirectionnelle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3706436157226562,
+            48.84971458543155
+          ],
+          [
+            2.370150089263916,
+            48.85075944922629
+          ],
+          [
+            2.3698604106903076,
+            48.85144424677692
           ]
         ]
       }
