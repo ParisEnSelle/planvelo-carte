@@ -1948,6 +1948,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Piste Pont Morland",
+        "description": "Mât publicitaire réimplanté dans la trajectoire de la piste cyclable bidirectionnelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3668026924133296,
+          48.846622225639784
+        ]
+      }
     }
   ]
 }
