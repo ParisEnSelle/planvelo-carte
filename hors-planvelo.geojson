@@ -1470,6 +1470,33 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue du Commandant l'Herminier",
+        "description": "Piste bidirectionnelle protégée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4162411689758296,
+            48.84918508531922
+          ],
+          [
+            2.416273355484009,
+            48.84876854129583
+          ],
+          [
+            2.4158871173858643,
+            48.846777554202816
+          ]
+        ]
+      }
     }
   ]
 }
