@@ -59,27 +59,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3615241050720215,
-            48.866461548921976
-          ],
-          [
-            2.3620176315307617,
-            48.86670856440179
-          ],
-          [
-            2.3634445667266846,
-            48.86726963788994
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 2,
@@ -1322,17 +1301,31 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Rue Louis Blanc",
+        "description": "Piste cyclable protégée à contre-sens"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.3651397228240967,
-            48.88110040366021
+            2.3646676540374756,
+            48.88136851337537
           ],
           [
-            2.3616528511047363,
-            48.882984196757384
+            2.362360954284668,
+            48.882603210618974
+          ],
+          [
+            2.3621785640716553,
+            48.88267376382654
+          ],
+          [
+            2.3618245124816895,
+            48.8828642569898
           ]
         ]
       }
