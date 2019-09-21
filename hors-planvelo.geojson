@@ -1555,6 +1555,83 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "name": "Rue de la Poterne des Peupliers",
+        "description": "Piste cyclable unidirectionnelle latérale sur chaussée, direction Gentillly ",
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.352522611618042,
+            48.82076036520352
+          ],
+          [
+            2.352747917175293,
+            48.82024468720801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue de la Poterne des Peupliers",
+        "description": "Piste cyclable unidirectionnelle latérale sur chaussée, direction Gentillly "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.353340685367584,
+            48.81816955945329
+          ],
+          [
+            2.3533621430397034,
+            48.817615000128136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "name": "Rue de la Poterne des Peupliers",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "description": "bandes cyclable contre stationnement, sans zone tampon, direction Gentilly"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.352801561355591,
+            48.82016698184462
+          ],
+          [
+            2.3531126976013184,
+            48.81953120616459
+          ],
+          [
+            2.3532307147979736,
+            48.81884597223549
+          ],
+          [
+            2.353295087814331,
+            48.81823137301079
+          ]
+        ]
+      }
     }
   ]
 }
