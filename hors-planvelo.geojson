@@ -1509,6 +1509,52 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bd Vincent Auriol",
+        "description": "Piste cyclable unidirectionnelle latérale sur chaussée",
+        "stroke-opacity": 1,
+        "stroke": "#228b22",
+        "stroke-width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3564815521240234,
+            48.83119287490604
+          ],
+          [
+            2.3633480072021484,
+            48.83350934606837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Rue Bobillot",
+        "description": "Piste cyclable unidirectionnelle latérale sur chaussée, sens montant uniquement"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3469972610473633,
+            48.82251928174206
+          ],
+          [
+            2.352662086486816,
+            48.828056993323116
+          ]
+        ]
+      }
     }
   ]
 }
