@@ -1649,6 +1649,26 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "piste DSC",
+        "name": "Rue de Vaugirard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.288374900817871,
+            48.83277486680796
+          ],
+          [
+            2.289919853210449,
+            48.833848332864555
+          ]
+        ]
+      }
     }
   ]
 }
