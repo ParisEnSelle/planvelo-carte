@@ -2055,6 +2055,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228a22",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "Avenue des Champs-Elysées (REV)",
+        "description": "Pistes unidirectionnelles latérales protégées"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.319810390472412,
+            48.86589340869103
+          ],
+          [
+            2.313898801803589,
+            48.8677777744882
+          ]
+        ]
+      }
     }
   ]
 }
