@@ -2084,7 +2084,9 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Jonction au niveau de gare de l'est",
+        "description": "Piste bidirectionnelle protégé (REV Nord-Sud)"
       },
       "geometry": {
         "type": "LineString",
