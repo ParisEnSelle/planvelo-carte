@@ -2150,6 +2150,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.327433228492737,
+            48.89303342189355
+          ],
+          [
+            2.3255878686904907,
+            48.88749936699407
+          ]
+        ]
+      }
     }
   ]
 }
