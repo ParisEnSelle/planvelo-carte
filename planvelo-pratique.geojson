@@ -2129,6 +2129,27 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 8,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.28066086769104,
+            48.881756564364984
+          ],
+          [
+            2.281787395477295,
+            48.8815096231745
+          ]
+        ]
+      }
     }
   ]
 }
