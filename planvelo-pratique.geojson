@@ -40,8 +40,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3717164993286137,
-            48.82031532834292
+            2.373518943786621,
+            48.81941111429733
           ],
           [
             2.3693990707397465,
@@ -2143,7 +2143,8 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 4,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Avenue de la Porte des Ternes"
       },
       "geometry": {
         "type": "LineString",
@@ -2164,7 +2165,8 @@
       "properties": {
         "stroke": "#ffa500",
         "stroke-width": 4,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Avenue de Saint-Ouen"
       },
       "geometry": {
         "type": "LineString",
@@ -2185,7 +2187,8 @@
       "properties": {
         "stroke": "#228b22",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Place de la Bastille"
       },
       "geometry": {
         "type": "LineString",
