@@ -2336,6 +2336,40 @@
           48.89173902288709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Régression : piste coupée avec retour dans la circulation",
+        "name": "métro Château Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3494595289230347,
+          48.88731241881696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "bd Barbés/rue Marcadet",
+        "description": "Régression, Piste transformée en bande cyclable à l’intersection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3497143387794495,
+          48.890504551197935
+        ]
+      }
     }
   ]
 }
