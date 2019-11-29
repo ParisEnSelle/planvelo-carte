@@ -2174,7 +2174,8 @@
         "stroke": "#ffa500",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Avenue de Saint-Ouen"
+        "name": "Avenue de Saint-Ouen",
+        "description": "bande cyclable et voie bus"
       },
       "geometry": {
         "type": "LineString",
@@ -2237,6 +2238,102 @@
             2.3694151639938354,
             48.852955004124134
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue Marcadet",
+        "description": "Double sens cyclable sans réduction de la circulation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3276960849761963,
+            48.8931215949936
+          ],
+          [
+            2.3277926445007324,
+            48.893001679539445
+          ],
+          [
+            2.3305338621139526,
+            48.89245147553301
+          ],
+          [
+            2.3335325717926025,
+            48.89185188734934
+          ],
+          [
+            2.3340582847595215,
+            48.891760184993174
+          ],
+          [
+            2.334964871406555,
+            48.89166848246879
+          ],
+          [
+            2.3393958806991573,
+            48.89122054849007
+          ],
+          [
+            2.3396748304367065,
+            48.89118175086998
+          ],
+          [
+            2.3409032821655273,
+            48.89130519773845
+          ],
+          [
+            2.341954708099365,
+            48.8912699272357
+          ],
+          [
+            2.342657446861267,
+            48.89123818376196
+          ],
+          [
+            2.343606948852539,
+            48.891202913211934
+          ],
+          [
+            2.3445135354995723,
+            48.89103008715718
+          ],
+          [
+            2.3468685150146484,
+            48.89031056001847
+          ],
+          [
+            2.3484832048416138,
+            48.890430481927325
+          ],
+          [
+            2.349604368209839,
+            48.890504551197935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rue Marcadet entre Damrémont et Carpeau",
+        "description": "Beaucoup de trafic de transit, contre sens vélo piste ni bande cyclable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334294319152832,
+          48.89173902288709
         ]
       }
     }
