@@ -2174,7 +2174,8 @@
         "stroke": "#ffa500",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Avenue de Saint-Ouen"
+        "name": "Avenue de Saint-Ouen",
+        "description": "bande cyclable et voie bus"
       },
       "geometry": {
         "type": "LineString",
@@ -2236,6 +2237,86 @@
           [
             2.3694151639938354,
             48.852955004124134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "rue Marcadet",
+        "description": "Double sens cyclable sans réduction de la circulation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+
+            2.3276960849761963,
+            48.8931215949936
+          ],
+          [
+            2.3277926445007324,
+            48.893001679539445
+          ],
+          [
+            2.3305338621139526,
+            48.89245147553301
+          ],
+          [
+            2.3335325717926025,
+            48.89185188734934
+          ],
+          [
+            2.3340582847595215,
+            48.891760184993174
+          ],
+          [
+            2.334964871406555,
+            48.89166848246879
+          ],
+          [
+            2.3393958806991573,
+            48.89122054849007
+          ],
+          [
+            2.3396748304367065,
+            48.89118175086998
+          ],
+          [
+            2.3409032821655273,
+            48.89130519773845
+          ],
+          [
+            2.341954708099365,
+            48.8912699272357
+          ],
+          [
+            2.342657446861267,
+            48.89123818376196
+          ],
+          [
+            2.343606948852539,
+            48.891202913211934
+          ],
+          [
+            2.3445135354995723,
+            48.89103008715718
+          ],
+          [
+            2.3468685150146484,
+            48.89031056001847
+          ],
+          [
+            2.3484832048416138,
+            48.890430481927325
+          ],
+          [
+            2.349604368209839,
+            48.890504551197935
           ]
         ]
       }
@@ -2354,6 +2435,120 @@
           [
             2.3098888993263245,
             48.869055150646226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rue Marcadet entre Damrémont et Carpeau",
+        "description": "Beaucoup de trafic de transit, contre sens vélo piste ni bande cyclable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334294319152832,
+          48.89173902288709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Régression : piste coupée avec retour dans la circulation",
+        "name": "métro Château Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3494595289230347,
+          48.88731241881696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "bd Barbés/rue Marcadet",
+        "description": "Régression, Piste transformée en bande cyclable à l’intersection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3497143387794495,
+          48.890504551197935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "name": "REV Rive Droite Concorde-Hôtel de Ville",
+        "description": "Tunnel fermé la nuit et voie piétonne très fréquentée l’été"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.321580648422241,
+            48.86371959521161
+          ],
+          [
+            2.3299384117126465,
+            48.86094572856374
+          ],
+          [
+            2.330871820449829,
+            48.86059280829702
+          ],
+          [
+            2.3361289501190186,
+            48.85941403657006
+          ],
+          [
+            2.3398518562316895,
+            48.858856404344245
+          ],
+          [
+            2.340291738510132,
+            48.85872934803138
+          ],
+          [
+            2.3424160480499268,
+            48.85830582465931
+          ],
+          [
+            2.347029447555542,
+            48.857049350904006
+          ],
+          [
+            2.3488640785217285,
+            48.85652698736495
+          ],
+          [
+            2.35082745552063,
+            48.85584225933529
+          ],
+          [
+            2.352144420146942,
+            48.85535164947217
+          ],
+          [
+            2.35245019197464,
+            48.855266939368754
           ]
         ]
       }
