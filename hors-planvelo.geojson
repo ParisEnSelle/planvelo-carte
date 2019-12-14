@@ -380,9 +380,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": ""
+        "stroke": "",
         "name": "Avenue de la Porte de la Plaine"
-
       },
       "geometry": {
         "type": "LineString",
