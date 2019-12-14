@@ -1654,7 +1654,10 @@
       "type": "Feature",
       "properties": {
         "description": "piste DSC",
-        "name": "Rue de Vaugirard"
+        "name": "Rue de Vaugirard",
+        "stroke-opacity": 1,
+        "stroke": "#228b22",
+        "stroke-width": 4
       },
       "geometry": {
         "type": "LineString",
