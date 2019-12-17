@@ -88,17 +88,25 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue Riquet",
-        "description": "Piste bidirectionnelle"
+        "description": "Piste protégée"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            2.3713061213493347,
-            48.889254176659804
+            2.3681598901748657,
+            48.88967920169621
+          ],
+          [
+            2.3708206415176387,
+            48.88931942970097
+          ],
+          [
+            2.3713678121566772,
+            48.88923830428555
           ],
           [
             2.3716387152671814,
