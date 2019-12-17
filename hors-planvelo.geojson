@@ -1505,6 +1505,41 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de Clichy",
+        "description": "Piste cyclable dans le sens de la montée, interrompue très fréquemment, et voie bus dans l'autre sens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3255744576454163,
+            48.88750642162857
+          ],
+          [
+            2.3227179050445557,
+            48.88913601553068
+          ],
+          [
+            2.3191237449645996,
+            48.89123112965396
+          ],
+          [
+            2.31610894203186,
+            48.89290292542008
+          ],
+          [
+            2.3137378692626953,
+            48.894292519017405
+          ]
+        ]
+      }
     }
   ]
 }
