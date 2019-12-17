@@ -1105,7 +1105,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue Louis Blanc",
         "description": "Piste cyclable protégée à contre-sens"
@@ -1471,6 +1471,37 @@
           [
             2.289919853210449,
             48.833848332864555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 4,
+        "stroke": "#228b22",
+        "stroke-opacity": 1,
+        "name": "Rue Ordener",
+        "description": "Piste bidirectionnelle côté sud"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.355108261108398,
+            48.89035641254699
+          ],
+          [
+            2.355896830558777,
+            48.890331722729165
+          ],
+          [
+            2.3586487770080566,
+            48.89025765320253
+          ],
+          [
+            2.3598450422286983,
+            48.890222381960804
           ]
         ]
       }
