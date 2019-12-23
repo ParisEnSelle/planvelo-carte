@@ -492,7 +492,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue Louis Blanc",
-        "description": "Piste cyclable protégée à contre-sens"
+        "description": "Piste cyclable protégée à contre-sens et réduction drastique de la circulation"
       },
       "geometry": {
         "type": "LineString",
