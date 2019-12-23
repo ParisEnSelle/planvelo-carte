@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Bourdon",
         "description": "piste bidirectionnelle large de 2m par sens"
@@ -44,7 +44,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#228b22",
-        "stroke-width": 2,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Quai de Valmy",
         "description": "Piste unidirectionnelle"
@@ -471,16 +471,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3707616329193115,
-            48.835966948374555
+            2.373669147491455,
+            48.8374358025331
           ],
           [
-            2.3699408769607544,
-            48.835610321035354
+            2.3698925971984863,
+            48.835571480280734
           ],
           [
-            2.364935874938965,
-            48.833933079205224
+            2.35680341720581,
+            48.8311646245967
           ]
         ]
       }
@@ -502,7 +502,7 @@
             48.88136851337537
           ],
           [
-            2.362360954284668,
+            2.3623609542846684,
             48.882603210618974
           ],
           [
@@ -529,8 +529,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            2.3327144980430603,
-            48.87428076157152
+            2.3318803310394287,
+            48.876189508327606
           ],
           [
             2.3332804441452026,
@@ -585,52 +585,6 @@
           [
             2.4158871173858643,
             48.846777554202816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#228b22",
-        "stroke-width": 4,
-        "stroke-opacity": 1,
-        "name": "Bd Vincent Auriol",
-        "description": "Pistes cyclables unidirectionnelles latérales sur chaussée"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3720115423202515,
-            48.836627231894866
-          ],
-          [
-            2.3737120628356934,
-            48.837439333380615
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bd Vincent Auriol",
-        "description": "Piste cyclable unidirectionnelle latérale sur chaussée",
-        "stroke-opacity": 1,
-        "stroke": "#228b22",
-        "stroke-width": 4
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.3564815521240234,
-            48.83119287490604
-          ],
-          [
-            2.3633480072021484,
-            48.83350934606837
           ]
         ]
       }
