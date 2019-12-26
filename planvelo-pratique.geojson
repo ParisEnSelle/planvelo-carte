@@ -542,57 +542,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ffa500",
-        "stroke-width": 4,
-        "stroke-opacity": 1,
-        "name": "Bd. Hausmann : St Honoré - Messine",
-        "description": "Bande cyclable ou couloir de bus non protégé"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.306525409221649,
-            48.874938775841606
-          ],
-          [
-            2.3059380054473877,
-            48.8747800064346
-          ],
-          [
-            2.305431067943573,
-            48.87475178070948
-          ],
-          [
-            2.304677367210388,
-            48.87480823214379
-          ],
-          [
-            2.305377423763275,
-            48.8749564168557
-          ],
-          [
-            2.3059648275375366,
-            48.874991698865294
-          ],
-          [
-            2.3065441846847534,
-            48.8749493604508
-          ],
-          [
-            2.3091834783554073,
-            48.87503227314554
-          ],
-          [
-            2.3157763481140137,
-            48.87530041538762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7E7E7E",
         "marker-size": "medium",
         "marker-symbol": "",
