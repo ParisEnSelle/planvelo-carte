@@ -883,10 +883,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#228b22",
+        "stroke": "#ffa500",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "Rue Froidevaux"
+        "name": "Rue Froidevaux",
+        "description": "Piste très difficile d'accès depuis le carrefour de l'avenue du Maine"
       },
       "geometry": {
         "type": "LineString",
