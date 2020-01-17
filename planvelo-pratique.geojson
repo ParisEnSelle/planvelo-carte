@@ -887,7 +887,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Rue Froidevaux",
-        "description": "Piste très difficile d'accès depuis le carrefour de l'avenue du Maine"
+        "description": "Piste dans le sens Ouest-Est très difficile d'accès notamment depuis le carrefour de l'avenue du Maine"
       },
       "geometry": {
         "type": "LineString",
