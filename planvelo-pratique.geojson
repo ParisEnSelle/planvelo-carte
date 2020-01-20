@@ -2785,6 +2785,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de la Bourdonnais",
+        "description": "Bande cyclable contre stationnement et voie de bus partagée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3003053665161133,
+            48.857487002645485
+          ],
+          [
+            2.3051977157592773,
+            48.85449395305341
+          ]
+        ]
+      }
     }
   ]
 }
