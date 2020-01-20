@@ -883,6 +883,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#228b22",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de la porte de la plaine",
+        "description": "Pistes cyclables unidirectionnelles"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2923660278320312,
+            48.82994984622595
+          ],
+          [
+            2.2922801971435547,
+            48.827929858849195
+          ]
+        ]
+      }
     }
   ]
 }
