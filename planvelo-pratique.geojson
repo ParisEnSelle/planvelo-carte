@@ -2750,6 +2750,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Franchissement dangereux du carrefour, acces difficile à la piste rue Froidevaux",
+        "name": "Carrefour Maine-Froidevaux-Jean Zay",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3229271173477173,
+          48.837545258690746
+        ]
+      }
     }
   ]
 }
