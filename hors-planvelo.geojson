@@ -906,6 +906,29 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "name": "Avenue de la porte de Chatillon",
+        "description": "Voie de bus partagée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.315132617950439,
+            48.82274532276488
+          ],
+          [
+            2.3174071311950684,
+            48.82377662199491
+          ]
+        ]
+      }
     }
   ]
 }
